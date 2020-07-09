@@ -1,0 +1,172 @@
+[ 2020-05-13T08:47:18+08:00 ] ::1 /home/job/JobInfoList?key_words=aaa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008427s ]
+NOTIC: [2] Missing argument 1 for I(), called in /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php on line 68 and defined /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 303 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 306 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 313 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 376 行.
+SQL: SHOW COLUMNS FROM `cd_zhao_pin` [ RunTime:0.0359s ]
+NOTIC: [8] Undefined index: page /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php 第 75 行.
+NOTIC: [8] Undefined index: limit /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php 第 77 行.
+NOTIC: [2] Missing argument 1 for Home\Controller\JobController::getDataPro(), called in /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php on line 84 and defined /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php 第 174 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\JobController::getDataPro(), called in /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php on line 84 and defined /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php 第 174 行.
+SQL: SHOW COLUMNS FROM `cd_city` [ RunTime:0.0317s ]
+SQL: SHOW COLUMNS FROM `cd_advert` [ RunTime:0.0355s ]
+SQL: SHOW COLUMNS FROM `cd_station` [ RunTime:0.0325s ]
+NOTIC: [2] Missing argument 1 for I(), called in /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php on line 179 and defined /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 303 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 306 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 313 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 376 行.
+SQL: SELECT * FROM `cd_city` WHERE ( 1=1 )  [ RunTime:0.0284s ]
+SQL: SELECT * FROM `cd_advert` WHERE ( 1=1 )  [ RunTime:0.0298s ]
+SQL: SELECT * FROM `cd_station` WHERE ( 1=1 )  [ RunTime:0.0286s ]
+NOTIC: [8] Undefined variable: type /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php 第 189 行.
+NOTIC: [8] Undefined index:  /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php 第 189 行.
+NOTIC: [8] Undefined variable: id /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php 第 189 行.
+NOTIC: [8] Undefined index: city_id /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php 第 86 行.
+NOTIC: [8] Undefined index: advert_id /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php 第 89 行.
+NOTIC: [8] Undefined index: station_id /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php 第 92 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `cd_zhao_pin` WHERE `status` = 1 AND (  `advert_title` LIKE '%aaa%' OR `advert_info` LIKE '%aaa%' OR `advert_text` LIKE '%aaa%' ) LIMIT 1   [ RunTime:0.0298s ]
+SQL: SELECT * FROM `cd_zhao_pin` WHERE `status` = 1 AND (  `advert_title` LIKE '%aaa%' OR `advert_info` LIKE '%aaa%' OR `advert_text` LIKE '%aaa%' ) LIMIT 0,10   [ RunTime:0.0291s ]
+
+[ 2020-05-13T08:47:42+08:00 ] ::1 /home/job/jobView?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.024173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024269s ]
+NOTIC: [2] Missing argument 1 for I(), called in /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php on line 130 and defined /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 303 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 306 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 313 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 376 行.
+NOTIC: [2] Missing argument 1 for Home\Controller\JobController::getDataPro(), called in /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php on line 131 and defined /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php 第 174 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\JobController::getDataPro(), called in /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php on line 131 and defined /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php 第 174 行.
+SQL: SHOW COLUMNS FROM `cd_city` [ RunTime:0.0319s ]
+SQL: SHOW COLUMNS FROM `cd_advert` [ RunTime:0.0333s ]
+SQL: SHOW COLUMNS FROM `cd_station` [ RunTime:0.0327s ]
+NOTIC: [2] Missing argument 1 for I(), called in /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php on line 179 and defined /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 303 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 306 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 313 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 376 行.
+SQL: SELECT * FROM `cd_city` WHERE ( 1=1 )  [ RunTime:0.0304s ]
+SQL: SELECT * FROM `cd_advert` WHERE ( 1=1 )  [ RunTime:0.0328s ]
+SQL: SELECT * FROM `cd_station` WHERE ( 1=1 )  [ RunTime:0.0298s ]
+NOTIC: [8] Undefined variable: type /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php 第 189 行.
+NOTIC: [8] Undefined index:  /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php 第 189 行.
+NOTIC: [8] Undefined variable: id /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php 第 189 行.
+SQL: SHOW COLUMNS FROM `cd_zhao_pin` [ RunTime:0.0310s ]
+SQL: SELECT * FROM `cd_zhao_pin` WHERE `status` = 1 AND `zp_id` = 1 LIMIT 1   [ RunTime:0.0306s ]
+NOTIC: [2] Missing argument 1 for I(), called in /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php on line 179 and defined /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 303 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 306 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 313 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 376 行.
+SQL: SELECT * FROM `cd_city` WHERE ( 1=1 )  [ RunTime:0.0301s ]
+SQL: SELECT * FROM `cd_advert` WHERE ( 1=1 )  [ RunTime:0.0299s ]
+SQL: SELECT * FROM `cd_station` WHERE ( 1=1 )  [ RunTime:0.0307s ]
+NOTIC: [2] Missing argument 1 for I(), called in /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php on line 179 and defined /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 303 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 306 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 313 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 376 行.
+SQL: SELECT * FROM `cd_city` WHERE ( 1=1 )  [ RunTime:0.0296s ]
+SQL: SELECT * FROM `cd_advert` WHERE ( 1=1 )  [ RunTime:0.0316s ]
+SQL: SELECT * FROM `cd_station` WHERE ( 1=1 )  [ RunTime:0.0314s ]
+NOTIC: [2] Missing argument 1 for I(), called in /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php on line 179 and defined /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 303 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 306 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 313 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 376 行.
+SQL: SELECT * FROM `cd_city` WHERE ( 1=1 )  [ RunTime:0.0290s ]
+SQL: SELECT * FROM `cd_advert` WHERE ( 1=1 )  [ RunTime:0.0303s ]
+SQL: SELECT * FROM `cd_station` WHERE ( 1=1 )  [ RunTime:0.0302s ]
+SQL: SELECT * FROM `cd_zhao_pin` WHERE `zp_id` <> 1 LIMIT 5   [ RunTime:0.0305s ]
+NOTIC: [2] Missing argument 1 for I(), called in /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php on line 179 and defined /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 303 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 306 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 313 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 376 行.
+SQL: SELECT * FROM `cd_city` WHERE ( 1=1 )  [ RunTime:0.0304s ]
+SQL: SELECT * FROM `cd_advert` WHERE ( 1=1 )  [ RunTime:0.0305s ]
+SQL: SELECT * FROM `cd_station` WHERE ( 1=1 )  [ RunTime:0.0301s ]
+NOTIC: [2] Missing argument 1 for I(), called in /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php on line 179 and defined /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 303 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 306 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 313 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 376 行.
+SQL: SELECT * FROM `cd_city` WHERE ( 1=1 )  [ RunTime:0.0318s ]
+SQL: SELECT * FROM `cd_advert` WHERE ( 1=1 )  [ RunTime:0.0308s ]
+SQL: SELECT * FROM `cd_station` WHERE ( 1=1 )  [ RunTime:0.0315s ]
+NOTIC: [2] Missing argument 1 for I(), called in /Applications/MAMP/htdocs/zhaopin/zhaopin-php/Application/Home/Controller/JobController.class.php on line 179 and defined /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 303 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 306 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 313 行.
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/zhaopin/zhaopin-php/ThinkPHP/Common/functions.php 第 376 行.
+SQL: SELECT * FROM `cd_city` WHERE ( 1=1 )  [ RunTime:0.0310s ]
+SQL: SELECT * FROM `cd_advert` WHERE ( 1=1 )  [ RunTime:0.0289s ]
+SQL: SELECT * FROM `cd_station` WHERE ( 1=1 )  [ RunTime:0.0297s ]
+
+[ 2020-05-13T11:34:51+08:00 ] ::1 /home/job/mdtopdf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017790s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002691s ]
+
+[ 2020-05-13T11:41:11+08:00 ] ::1 /home/job/mdtopdf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.034570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.034653s ]
+
+[ 2020-05-13T11:42:58+08:00 ] ::1 /home/job/mdtopdf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010313s ]
+
+[ 2020-05-13T13:46:44+08:00 ] ::1 /home/job/mdtopdf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.007769s ]
+INFO: [ app_init ] --END-- [ RunTime:0.045475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010556s ]
+
+[ 2020-05-13T13:52:06+08:00 ] ::1 /home/job/mdtopdf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001925s ]
+
+[ 2020-05-13T13:57:31+08:00 ] ::1 /home/job/mdtopdf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010189s ]
+
+[ 2020-05-13T14:01:45+08:00 ] ::1 /home/job/mdtopdf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013703s ]
+
+[ 2020-05-13T14:26:00+08:00 ] ::1 /home/job/mdtopdf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008908s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002338s ]
+NOTIC: [8] Undefined index: /Applications/MAMP/htdocs/zhaopin/zhaopin-php/vendor/dompdf/dompdf/lib/fonts/simsun /Applications/MAMP/htdocs/zhaopin/zhaopin-php/vendor/dompdf/dompdf/src/Renderer/Text.php 第 105 行.
+

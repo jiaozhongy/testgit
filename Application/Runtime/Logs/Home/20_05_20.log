@@ -1,0 +1,13 @@
+[ 2020-05-20T10:14:05+08:00 ] ::1 /home/job/cronTab
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009794s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001439s ]
+SQL: SHOW COLUMNS FROM `cd_task_job` [ RunTime:0.0296s ]
+SQL: SELECT * FROM `cd_task_job` WHERE `status` = 0  [ RunTime:0.0280s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001192s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001233s ]
+

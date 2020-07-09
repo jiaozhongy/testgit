@@ -1,0 +1,208 @@
+[ 2020-06-05T14:09:45+08:00 ] ::1 /home/Pda/depotList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007515s ]
+SQL: SHOW COLUMNS FROM `bd_depot` [ RunTime:0.0323s ]
+SQL: SELECT * FROM `bd_depot`  [ RunTime:0.0338s ]
+
+[ 2020-06-05T14:17:24+08:00 ] ::1 /home/Pda/depotList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000952s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009139s ]
+SQL: SHOW COLUMNS FROM `bd_depot` [ RunTime:0.0308s ]
+SQL: SELECT * FROM `bd_depot`  [ RunTime:0.0348s ]
+
+[ 2020-06-05T14:17:25+08:00 ] ::1 /home/Pda/depotList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+SQL: SHOW COLUMNS FROM `bd_depot` [ RunTime:0.0311s ]
+SQL: SELECT * FROM `bd_depot`  [ RunTime:0.0317s ]
+
+[ 2020-06-05T14:31:28+08:00 ] ::1 /home/Pda/depotList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007121s ]
+SQL: SHOW COLUMNS FROM `bd_depot` [ RunTime:0.0320s ]
+SQL: SELECT * FROM `bd_depot`  [ RunTime:0.0379s ]
+
+[ 2020-06-05T14:31:46+08:00 ] ::1 /home/Pda/depotList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+SQL: SHOW COLUMNS FROM `bd_depot` [ RunTime:0.0315s ]
+SQL: SELECT * FROM `bd_depot`  [ RunTime:0.0305s ]
+
+[ 2020-06-05T14:34:20+08:00 ] ::1 /home/Pda/depotList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006909s ]
+SQL: SHOW COLUMNS FROM `bd_depot` [ RunTime:0.0324s ]
+SQL: SELECT * FROM `bd_depot`  [ RunTime:0.0306s ]
+
+[ 2020-06-05T14:34:46+08:00 ] ::1 /home/Pda/depotList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001533s ]
+SQL: SHOW COLUMNS FROM `bd_depot` [ RunTime:0.0411s ]
+SQL: SELECT * FROM `bd_depot`  [ RunTime:0.0302s ]
+
+[ 2020-06-05T14:47:04+08:00 ] ::1 /home/Pda/depotList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001168s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001215s ]
+SQL: SHOW COLUMNS FROM `bd_depot` [ RunTime:0.0291s ]
+SQL: SELECT * FROM `bd_depot`  [ RunTime:0.0301s ]
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 220 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 220 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 220 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 220 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 220 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 220 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 220 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 220 行.
+
+[ 2020-06-05T14:47:22+08:00 ] ::1 /home/Pda/depotList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001746s ]
+SQL: SHOW COLUMNS FROM `bd_depot` [ RunTime:0.0314s ]
+SQL: SELECT * FROM `bd_depot`  [ RunTime:0.0308s ]
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+
+[ 2020-06-05T14:47:55+08:00 ] ::1 /home/Pda/depotList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007494s ]
+SQL: SHOW COLUMNS FROM `bd_depot` [ RunTime:0.0305s ]
+SQL: SELECT * FROM `bd_depot`  [ RunTime:0.0279s ]
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [2] array_values() expects parameter 1 to be array, null given /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [2] array_values() expects parameter 1 to be array, null given /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [2] array_values() expects parameter 1 to be array, null given /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [2] array_values() expects parameter 1 to be array, null given /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [2] array_values() expects parameter 1 to be array, null given /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [2] array_values() expects parameter 1 to be array, null given /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [2] array_values() expects parameter 1 to be array, null given /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [2] array_values() expects parameter 1 to be array, null given /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+
+[ 2020-06-05T14:47:57+08:00 ] ::1 /home/Pda/depotList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+SQL: SHOW COLUMNS FROM `bd_depot` [ RunTime:0.0290s ]
+SQL: SELECT * FROM `bd_depot`  [ RunTime:0.0289s ]
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [2] array_values() expects parameter 1 to be array, null given /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [2] array_values() expects parameter 1 to be array, null given /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [2] array_values() expects parameter 1 to be array, null given /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [2] array_values() expects parameter 1 to be array, null given /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [2] array_values() expects parameter 1 to be array, null given /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [2] array_values() expects parameter 1 to be array, null given /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [2] array_values() expects parameter 1 to be array, null given /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [8] Undefined variable: tree /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+NOTIC: [2] array_values() expects parameter 1 to be array, null given /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 214 行.
+
+[ 2020-06-05T18:03:25+08:00 ] ::1 /home/Pda/inventoryGet?key_words=%E7%A2%8E%E8%82%89&tid=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `bd_inventory` [ RunTime:0.0313s ]
+SQL: SHOW COLUMNS FROM `bd_tray_inventory` [ RunTime:0.0344s ]
+SQL: SELECT * FROM `bd_inventory` WHERE `name` LIKE '%碎肉%' OR `scode` LIKE '%碎肉%' LIMIT 5   [ RunTime:0.0344s ]
+NOTIC: [8] Undefined index: tid /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 155 行.
+SQL: SELECT * FROM `bd_tray_inventory` WHERE `sid` = '0001c825965511ea8d757cd30ac4d7e6' AND `tid` = null LIMIT 1   [ RunTime:0.0337s ]
+
+[ 2020-06-05T18:03:52+08:00 ] ::1 /home/Pda/inventoryGet?key_words=%E7%A2%8E%E8%82%89&tid=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001482s ]
+SQL: SHOW COLUMNS FROM `bd_inventory` [ RunTime:0.0301s ]
+SQL: SHOW COLUMNS FROM `bd_tray_inventory` [ RunTime:0.0298s ]
+SQL: SELECT * FROM `bd_inventory` WHERE `name` LIKE '%碎肉%' OR `scode` LIKE '%碎肉%' LIMIT 5   [ RunTime:0.0306s ]
+NOTIC: [8] Undefined index: tid /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 155 行.
+SQL: SELECT * FROM `bd_tray_inventory` WHERE `sid` = '0001c825965511ea8d757cd30ac4d7e6' AND `tid` = null LIMIT 1   [ RunTime:0.0300s ]
+
+[ 2020-06-05T18:04:28+08:00 ] ::1 /home/Pda/inventoryGet?key_words=%E7%A2%8E%E8%82%89&tid=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001419s ]
+SQL: SHOW COLUMNS FROM `bd_inventory` [ RunTime:0.0295s ]
+SQL: SHOW COLUMNS FROM `bd_tray_inventory` [ RunTime:0.0305s ]
+SQL: SELECT * FROM `bd_inventory` WHERE `name` LIKE '%碎肉%' OR `scode` LIKE '%碎肉%' LIMIT 5   [ RunTime:0.0294s ]
+SQL: SELECT * FROM `bd_tray_inventory` WHERE `sid` = '0001c825965511ea8d757cd30ac4d7e6' AND `tid` = 1 LIMIT 1   [ RunTime:0.0300s ]
+
+[ 2020-06-05T23:43:03+08:00 ] ::1 /home/Pda/inventoryGet?key_words=%E7%A2%8E%E8%82%89&tid=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002575s ]
+SQL: SHOW COLUMNS FROM `bd_inventory` [ RunTime:0.0305s ]
+SQL: SHOW COLUMNS FROM `bd_tray_inventory` [ RunTime:0.0367s ]
+SQL: SELECT * FROM `bd_inventory` WHERE `name` LIKE '%碎肉%' OR `scode` LIKE '%碎肉%' LIMIT 5   [ RunTime:0.0299s ]
+SQL: SELECT * FROM `bd_tray_inventory` WHERE `sid` = '0001c825965511ea8d757cd30ac4d7e6' AND `tid` = 1 LIMIT 1   [ RunTime:0.0292s ]
+

@@ -1,0 +1,70 @@
+[ 2020-06-29T17:40:12+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001768s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/MAMP/htdocs/pda/ThinkPHP/Library/Think/App.class.php 第 32 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/MAMP/htdocs/pda/ThinkPHP/Library/Think/Dispatcher.class.php 第 141 行.
+NOTIC: [2] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' (this will throw an Error in a future version of PHP) /Applications/MAMP/htdocs/pda/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+ERR: Class 'Home\Controller\AMQPConnection' not found
+
+[ 2020-06-29T17:43:56+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000131s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001964s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001729s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002173s ]
+
+[ 2020-06-29T17:43:58+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000871s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001224s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001956s ]
+
+[ 2020-06-29T17:44:08+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000970s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002396s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001103s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001485s ]
+
+[ 2020-06-29T17:44:24+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000292s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002618s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/MAMP/htdocs/pda/ThinkPHP/Library/Think/App.class.php 第 32 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/MAMP/htdocs/pda/ThinkPHP/Library/Think/Dispatcher.class.php 第 141 行.
+NOTIC: [2] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' (this will throw an Error in a future version of PHP) /Applications/MAMP/htdocs/pda/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000999s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001517s ]
+
+[ 2020-06-29T17:50:13+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001706s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002975s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001709s ]
+

@@ -1,0 +1,1139 @@
+[ 2020-06-04T11:05:39+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000350s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+ERR: 非法操作:index
+
+[ 2020-06-04T11:08:05+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006413s ]
+
+[ 2020-06-04T11:35:15+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001636s ]
+
+[ 2020-06-04T11:36:20+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+
+[ 2020-06-04T11:37:30+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001832s ]
+
+[ 2020-06-04T11:37:31+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+
+[ 2020-06-04T11:37:32+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+
+[ 2020-06-04T11:37:37+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000794s ]
+
+[ 2020-06-04T11:40:38+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+
+[ 2020-06-04T11:41:02+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001268s ]
+
+[ 2020-06-04T11:41:56+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000191s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001176s ]
+
+[ 2020-06-04T11:41:57+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+
+[ 2020-06-04T11:41:57+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000530s ]
+
+[ 2020-06-04T11:41:58+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+
+[ 2020-06-04T11:42:05+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+
+[ 2020-06-04T13:35:28+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001288s ]
+NOTIC: [8] Only variables should be passed by reference /Applications/MAMP/htdocs/pda/Application/Home/Controller/IndexController.class.php 第 21 行.
+
+[ 2020-06-04T13:36:04+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001603s ]
+NOTIC: [8] Only variables should be passed by reference /Applications/MAMP/htdocs/pda/Application/Home/Controller/IndexController.class.php 第 21 行.
+
+[ 2020-06-04T13:36:51+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001261s ]
+
+[ 2020-06-04T13:37:05+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000972s ]
+
+[ 2020-06-04T13:37:25+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001241s ]
+
+[ 2020-06-04T13:37:31+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+
+[ 2020-06-04T13:38:37+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006555s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000653s ]
+
+[ 2020-06-04T13:39:01+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+
+[ 2020-06-04T13:39:02+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+
+[ 2020-06-04T13:39:02+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+
+[ 2020-06-04T13:39:03+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000357s ]
+
+[ 2020-06-04T13:51:05+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001119s ]
+
+[ 2020-06-04T13:51:06+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+
+[ 2020-06-04T13:51:06+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000438s ]
+
+[ 2020-06-04T13:51:06+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+
+[ 2020-06-04T13:51:23+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+
+[ 2020-06-04T13:53:20+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001948s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001854s ]
+
+[ 2020-06-04T13:53:20+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+
+[ 2020-06-04T13:53:21+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+
+[ 2020-06-04T13:53:21+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+
+[ 2020-06-04T13:53:40+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000970s ]
+
+[ 2020-06-04T13:53:40+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+
+[ 2020-06-04T13:53:40+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000484s ]
+
+[ 2020-06-04T13:53:57+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002037s ]
+
+[ 2020-06-04T13:55:22+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000862s ]
+
+[ 2020-06-04T13:55:22+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+
+[ 2020-06-04T13:55:23+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+
+[ 2020-06-04T13:55:40+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+
+[ 2020-06-04T13:56:04+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+
+[ 2020-06-04T13:56:07+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001798s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+
+[ 2020-06-04T13:56:36+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+
+[ 2020-06-04T13:56:37+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+
+[ 2020-06-04T13:56:37+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+
+[ 2020-06-04T13:56:37+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+
+[ 2020-06-04T13:58:22+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000995s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001727s ]
+
+[ 2020-06-04T14:01:26+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000771s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000809s ]
+ERR: SQLSTATE[HY000] [1044] Access denied for user 't_didi'@'%' to database 'pda'
+
+[ 2020-06-04T14:02:40+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'pad'@'61.148.221.114' (using password: YES)
+
+[ 2020-06-04T14:02:56+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001547s ]
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'pad'@'61.148.221.114' (using password: YES)
+
+[ 2020-06-04T14:02:58+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'pad'@'61.148.221.114' (using password: YES)
+
+[ 2020-06-04T14:03:49+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+SQL: SHOW COLUMNS FROM `bd_inventory` [ RunTime:0.0449s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0001c825965511ea8d757cd30ac4d7e6','16zd2096','鲜3:7碎肉','15KG/包','1','KG','15','箱') [ RunTime:0.0356s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('000a7532965511ea8d757cd30ac4d7e6','8082629','颐丰冰鲜脚圈 10KG/包','','1','KG','10','包') [ RunTime:0.0349s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('000f4e0f965511ea8d757cd30ac4d7e6','16dm031','但马冰鲜去盖臀肉FB7-8','','0','KG','1','箱') [ RunTime:0.0347s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0014012f965511ea8d757cd30ac4d7e6','16dm032','但马冰鲜小米龙FB7-8','','0','KG','1','箱') [ RunTime:0.0330s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00193888965511ea8d757cd30ac4d7e6','16dm033','但马冰鲜大米龙FB7-8','','0','KG','1','箱') [ RunTime:0.0357s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('001e4485965511ea8d757cd30ac4d7e6','16dm034','但马冰鲜牛霖（和尚头）FB7-8','','0','KG','1','箱') [ RunTime:0.0330s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00236b5b965511ea8d757cd30ac4d7e6','16dm066','但马撒撒米(牛腩排F-肉)FB7-8','','0','KG','1','箱') [ RunTime:0.0327s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00289b28965511ea8d757cd30ac4d7e6','16dm035','但马冰鲜臀腰肉盖FB7-8','','0','KG','1','箱') [ RunTime:0.0336s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('002d7a1d965511ea8d757cd30ac4d7e6','16dm067','但马肋条肉FB9+','','0','KG','1','箱') [ RunTime:0.0338s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00332c45965511ea8d757cd30ac4d7e6','16dm036','但马冰鲜臀腰肉心FB7-8','','0','KG','1','箱') [ RunTime:0.0359s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0037fa94965511ea8d757cd30ac4d7e6','16dm068','但马肋条肌FB9+','','0','KG','1','箱') [ RunTime:0.0318s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('003cc816965511ea8d757cd30ac4d7e6','16dm037','但马冰鲜三角肉FB7-8','','0','KG','1','箱') [ RunTime:0.0318s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0042871c965511ea8d757cd30ac4d7e6','16dm069','但马保乐FB9+','','0','KG','1','箱') [ RunTime:0.0329s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0047f85c965511ea8d757cd30ac4d7e6','16dm038','但马冰鲜上脑边（牛板腱）FB7-8','','0','KG','1','箱') [ RunTime:0.0324s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('004f41a5965511ea8d757cd30ac4d7e6','16dm070','但马上脑心FB9+','','0','KG','1','箱') [ RunTime:0.0339s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00551a82965511ea8d757cd30ac4d7e6','16dm040','但马冰鲜颈肉卷末端FB7-8','','0','KG','1','箱') [ RunTime:0.0317s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('005a06db965511ea8d757cd30ac4d7e6','16dm071','但马去盖臀肉FB9+','','0','KG','1','箱') [ RunTime:0.0341s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('005fbf7f965511ea8d757cd30ac4d7e6','16dm072','但马前胸FB7-8','','0','KG','1','箱') [ RunTime:0.0326s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('006465cb965511ea8d757cd30ac4d7e6','16dm041','但马冰鲜保乐FB7-8','','0','KG','1','箱') [ RunTime:0.0316s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00695115965511ea8d757cd30ac4d7e6','16dm042','但马冰鲜板腱FB7-8','','0','KG','1','箱') [ RunTime:0.0348s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('006ea226965511ea8d757cd30ac4d7e6','16dm043','但马冰鲜嫩肩FB7-8','','0','KG','1','箱') [ RunTime:0.0318s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00738483965511ea8d757cd30ac4d7e6','16dm073','但马前胸FB9+','','0','KG','1','箱') [ RunTime:0.0336s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0078501a965511ea8d757cd30ac4d7e6','16dm044','但马冰鲜边肉FB7-8','','0','KG','1','箱') [ RunTime:0.0309s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('007dda9b965511ea8d757cd30ac4d7e6','16dm074','但马牛腱CFB7-8','','0','KG','1','箱') [ RunTime:0.0334s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0082fd9e965511ea8d757cd30ac4d7e6','16dm045','但马冰鲜前胸FB7-8','','0','KG','1','箱') [ RunTime:0.0332s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0087ff8a965511ea8d757cd30ac4d7e6','16dm046','但马冰鲜腹心肉FB7-8','','0','KG','1','箱') [ RunTime:0.0620s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('008d556a965511ea8d757cd30ac4d7e6','16dm075','但马牛腱CFB9+','','0','KG','1','箱') [ RunTime:0.0327s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0092242e965511ea8d757cd30ac4d7e6','16dm047','但马冰鲜西冷FB7-8','','0','KG','1','箱') [ RunTime:0.0325s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00989573965511ea8d757cd30ac4d7e6','16dm076','但马西冷FB7-8/外脊','','0','KG','1','箱') [ RunTime:0.0319s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('009e51a3965511ea8d757cd30ac4d7e6','16dm048','但马冰鲜牛柳FB7-8','','0','KG','1','箱') [ RunTime:0.0337s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00a3dfdc965511ea8d757cd30ac4d7e6','16dm049','但马冰鲜撒撒米FB7-8','','0','KG','1','箱') [ RunTime:0.0323s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00a8ae53965511ea8d757cd30ac4d7e6','16dm077','但马西冷FB9+/外脊','','0','KG','1','箱') [ RunTime:0.0335s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00ad87d4965511ea8d757cd30ac4d7e6','16dm078','但马眼肉FB7-8','','0','KG','1','箱') [ RunTime:0.0321s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00b2f3f8965511ea8d757cd30ac4d7e6','16dm079','但马眼肉FB9+','','0','KG','1','箱') [ RunTime:0.0364s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00b8492e965511ea8d757cd30ac4d7e6','16dm050','但马冰鲜横膈膜（内裙肉）FB7-8','','0','KG','1','箱') [ RunTime:0.0359s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00bcfa5a965511ea8d757cd30ac4d7e6','16dm051','但马冰鲜后胸FB7-8','','0','KG','1','箱') [ RunTime:0.0358s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00c1b6bf965511ea8d757cd30ac4d7e6','16dm052','但马冰鲜牛小排（短肋肉）FB7-8','','0','KG','1','箱') [ RunTime:0.0327s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00c64866965511ea8d757cd30ac4d7e6','16dm053','但马冰鲜眼肉FB7-8','','0','KG','1','箱') [ RunTime:0.0326s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00cb2da9965511ea8d757cd30ac4d7e6','16dm054','但马冰鲜肋背FB7-8','','0','KG','1','箱') [ RunTime:0.0328s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00d135d1965511ea8d757cd30ac4d7e6','16dm055','但马冰鲜眼肉盖（泪眼眉）FB7-8','','0','KG','1','箱') [ RunTime:0.0331s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00d5cf1b965511ea8d757cd30ac4d7e6','16dm080','但马撒撒米(牛腩排F-肉)FB9+','','0','KG','1','箱') [ RunTime:0.0322s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00da9778965511ea8d757cd30ac4d7e6','16dm056','但马冰鲜三角肩肉FB7-8','','0','KG','1','箱') [ RunTime:0.0340s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00df5191965511ea8d757cd30ac4d7e6','16dm057','但马冰鲜肋条肉FB7-8','','0','KG','1','箱') [ RunTime:0.0331s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00e4df82965511ea8d757cd30ac4d7e6','16dm058','但马冰鲜肋条肌FB7-8','','0','KG','1','箱') [ RunTime:0.0307s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00e9bbd3965511ea8d757cd30ac4d7e6','16dm059','但马冰鲜精修腱子肉A FB7-8','','0','KG','1','箱') [ RunTime:0.0330s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00ef50a5965511ea8d757cd30ac4d7e6','16dm060','但马冰鲜精修腱子肉B FB7-8','','0','KG','1','箱') [ RunTime:0.0318s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00f416fd965511ea8d757cd30ac4d7e6','16dm061','但马冰鲜精修腱子肉C FB7-8','','0','KG','1','箱') [ RunTime:0.0334s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00f91d2e965511ea8d757cd30ac4d7e6','16dm062','但马冰鲜精修腱子肉D FB7-8','','0','KG','1','箱') [ RunTime:0.0360s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00fdda82965511ea8d757cd30ac4d7e6','16dm063','但马冰鲜精修腱子肉E FB7-8','','0','KG','1','箱') [ RunTime:0.0327s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0102808e965511ea8d757cd30ac4d7e6','16dm064','但马冰鲜精修腱子肉F FB7-8','','0','KG','1','箱') [ RunTime:0.0327s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01081deb965511ea8d757cd30ac4d7e6','16dm039','但马冰鲜上脑心FB7-8','','0','KG','1','箱') [ RunTime:0.0327s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('010d5fd0965511ea8d757cd30ac4d7e6','8010580','耘垦鸡胸 ','14.9KG/箱','1','KG','14.9','箱') [ RunTime:0.0318s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0112b982965511ea8d757cd30ac4d7e6','80104056','正大琵琶腿M ','9KG/箱','1','KG','9','箱') [ RunTime:0.0336s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0118a2cd965511ea8d757cd30ac4d7e6','8010759','寿光鸡全腿C5','10KG/箱','1','KG','10','箱') [ RunTime:0.0327s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('011d7003965511ea8d757cd30ac4d7e6','8010760','寿光鸡全腿D6','10KG/箱','1','KG','10','箱') [ RunTime:0.0333s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01226e7d965511ea8d757cd30ac4d7e6','80104057','寿光琵琶腿（调理）M ','9KG/箱','1','KG','9','箱') [ RunTime:0.0342s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0128fcca965511ea8d757cd30ac4d7e6','16ljjg0129','美国猪大排火锅片（瘦）','','0','KG','1','盒') [ RunTime:0.0497s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('012d88e9965511ea8d757cd30ac4d7e6','8010581','丰联鸡胸（去油） ','10KG/箱','1','KG','10','箱') [ RunTime:0.0347s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01328928965511ea8d757cd30ac4d7e6','8010582','丰联鸡胸（带油） 9.8KG/箱','9.8KG/箱','1','KG','9.8','箱') [ RunTime:0.0357s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('013776df965511ea8d757cd30ac4d7e6','8082311','西班牙4425进口猪舌（无根） 10KG/箱','','1','KG','10','箱') [ RunTime:0.0317s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('013df18a965511ea8d757cd30ac4d7e6','8090210','阿根廷2025牛腩','','0','KG','30','箱') [ RunTime:0.0327s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01437a90965511ea8d757cd30ac4d7e6','8091018','新西兰82牛肚','','0','KG','30','箱') [ RunTime:0.0334s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01485b5c965511ea8d757cd30ac4d7e6','8020135','六和鸭腿  ','9.5KG/箱','1','KG','9.5','箱') [ RunTime:0.0316s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('014d91c5965511ea8d757cd30ac4d7e6','16zm003','炙默牛前胸','','0','KG','1','箱') [ RunTime:0.0339s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0152e2ea965511ea8d757cd30ac4d7e6','8011123','丰联凤爪S ','10KG/箱','1','KG','10','箱') [ RunTime:0.0313s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01594bda965511ea8d757cd30ac4d7e6','8011318','丰联鸡壳 ','10KG/箱','1','KG','10','箱') [ RunTime:0.0317s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('015e8d8b965511ea8d757cd30ac4d7e6','8080147','颐丰冰鲜前段（分）','','0','KG','25','片') [ RunTime:0.0325s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01640cab965511ea8d757cd30ac4d7e6','8080148','颐丰冰鲜中段（分）','','0','KG','25','片') [ RunTime:0.0308s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('016a307d965511ea8d757cd30ac4d7e6','8080149','颐丰冰鲜后段（分）','','0','KG','25','片') [ RunTime:0.0318s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('016fac81965511ea8d757cd30ac4d7e6','16ty00011dc','天源冻猪1号肉','','1','KG','25','箱') [ RunTime:0.0329s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0174ada7965511ea8d757cd30ac4d7e6','16wc079dc','鹌鹑蛋','','0','KG','1','箱') [ RunTime:0.0318s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('017b3c36965511ea8d757cd30ac4d7e6','16x028','黑芝麻方糕','','0','KG','1','箱') [ RunTime:0.0325s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0180805a965511ea8d757cd30ac4d7e6','16lbtx029','原味方糕','','0','KG','1','箱') [ RunTime:0.0340s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01857c31965511ea8d757cd30ac4d7e6','16ljdp0102dc','绿津肥牛肉片','500g/盒','1','KG','16','箱') [ RunTime:0.0321s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('018a111f965511ea8d757cd30ac4d7e6','16zmfg001','炙默牛腱(分割)','600*g/包','1','KG','18','箱') [ RunTime:0.0358s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('018fc94d965511ea8d757cd30ac4d7e6','16zmfg002','炙默牛腩(分割)','400*g/包','1','KG','16','箱') [ RunTime:0.0316s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01946f72965511ea8d757cd30ac4d7e6','16zmfg003','炙默牛尾（分割）','400*g/包','0','KG','0.4','包') [ RunTime:0.0325s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0199a0f2965511ea8d757cd30ac4d7e6','8080150','颐丰冰鲜后段（商）','','0','KG','25','片') [ RunTime:0.0340s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('019e8cc3965511ea8d757cd30ac4d7e6','8080151','颐丰冰鲜中段（商）','','0','KG','25','片') [ RunTime:0.0318s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01a55f5f965511ea8d757cd30ac4d7e6','8080152','颐丰冰鲜前段（商）','','0','KG','25','片') [ RunTime:0.0317s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01aa88c2965511ea8d757cd30ac4d7e6','80104058','中天琵琶腿M ','10KG/箱','1','KG','10','箱') [ RunTime:0.0347s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01af8879965511ea8d757cd30ac4d7e6','80104059','中天琵琶腿L ','10KG/箱','1','KG','10','箱') [ RunTime:0.0336s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01b54994965511ea8d757cd30ac4d7e6','80104060','中天琵琶腿LL ','10KG/箱','1','KG','10','箱') [ RunTime:0.0328s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01ba80dc965511ea8d757cd30ac4d7e6','80103105','三融鸡爪 ','9.7KG/箱','1','KG','9.7','箱') [ RunTime:0.0315s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01bf8344965511ea8d757cd30ac4d7e6','8111217','宫保鸡丁 ','10KG/箱','1','KG','10','箱') [ RunTime:0.0319s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01c59446965511ea8d757cd30ac4d7e6','8020820','弘发鸭头(8个) 1*','12KG/箱','1','KG','12','箱') [ RunTime:0.0345s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01cab9fa965511ea8d757cd30ac4d7e6','8121318','弘发鸭舌L 1*','12KG/箱','1','KG','12','箱') [ RunTime:0.0337s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01cfea08965511ea8d757cd30ac4d7e6','16wc080dc','乔老爷冷冻八宝饭200g/只','200g*40只','1','KG','8','箱') [ RunTime:0.0318s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01d4fb72965511ea8d757cd30ac4d7e6','16lsdc010','雪花牛肉粒','','0','KG','1','箱') [ RunTime:0.0328s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01da3727965511ea8d757cd30ac4d7e6','16lsdc011','蚝油牛肉片','','0','KG','1','箱') [ RunTime:0.0333s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01dfc89f965511ea8d757cd30ac4d7e6','16lsdc012','蚝油牛柳','','0','KG','1','箱') [ RunTime:0.0330s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01e451d4965511ea8d757cd30ac4d7e6','16lsdc013','牛仔骨','','0','KG','1','箱') [ RunTime:0.0326s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01e90dbb965511ea8d757cd30ac4d7e6','8020441','弘发鸭中翅 ','10KG/箱','1','KG','10','箱') [ RunTime:0.0328s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01ee4451965511ea8d757cd30ac4d7e6','16dm065','但马243牛修清前胸肉（6肋）','','0','KG','1','箱') [ RunTime:0.0339s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01f3a660965511ea8d757cd30ac4d7e6','80101017','天颐康S翅中 ','10KG/箱','1','KG','10','箱') [ RunTime:0.0326s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01f86edb965511ea8d757cd30ac4d7e6','16lbtx030','东北老哈（奶油）','','0','KG','1','箱') [ RunTime:0.0308s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01fd8980965511ea8d757cd30ac4d7e6','16lbtx031','东北老哈（奶酪）','','0','KG','1','箱') [ RunTime:0.0320s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('02024e04965511ea8d757cd30ac4d7e6','16lbtx032','东北老哈（酸奶）','','0','KG','1','箱') [ RunTime:0.0328s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0206fec7965511ea8d757cd30ac4d7e6','16lbtx033','东北老哈原味（托盒）','','0','KG','1','箱') [ RunTime:0.0330s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('020c443a965511ea8d757cd30ac4d7e6','16lbtx034','东北老哈奶酪（托盒）','','0','KG','1','�') [ RunTime:0.0318s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001360s ]
+
+[ 2020-06-04T14:15:20+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000981s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001040s ]
+SQL: SHOW COLUMNS FROM `bd_inventory` [ RunTime:0.0290s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0001c825965511ea8d757cd30ac4d7e6','16zd2096','鲜3:7碎肉','1','15KG/包','KG','15','箱') [ RunTime:0.0378s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('000a7532965511ea8d757cd30ac4d7e6','8082629','颐丰冰鲜脚圈 10KG/包','1','','KG','10','包') [ RunTime:0.0326s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('000f4e0f965511ea8d757cd30ac4d7e6','16dm031','但马冰鲜去盖臀肉FB7-8','0','','KG','1','箱') [ RunTime:0.0335s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0014012f965511ea8d757cd30ac4d7e6','16dm032','但马冰鲜小米龙FB7-8','0','','KG','1','箱') [ RunTime:0.0314s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00193888965511ea8d757cd30ac4d7e6','16dm033','但马冰鲜大米龙FB7-8','0','','KG','1','箱') [ RunTime:0.0331s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('001e4485965511ea8d757cd30ac4d7e6','16dm034','但马冰鲜牛霖（和尚头）FB7-8','0','','KG','1','箱') [ RunTime:0.0319s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00236b5b965511ea8d757cd30ac4d7e6','16dm066','但马撒撒米(牛腩排F-肉)FB7-8','0','','KG','1','箱') [ RunTime:0.0330s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00289b28965511ea8d757cd30ac4d7e6','16dm035','但马冰鲜臀腰肉盖FB7-8','0','','KG','1','箱') [ RunTime:0.0330s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('002d7a1d965511ea8d757cd30ac4d7e6','16dm067','但马肋条肉FB9+','0','','KG','1','箱') [ RunTime:0.0335s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00332c45965511ea8d757cd30ac4d7e6','16dm036','但马冰鲜臀腰肉心FB7-8','0','','KG','1','箱') [ RunTime:0.0328s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0037fa94965511ea8d757cd30ac4d7e6','16dm068','但马肋条肌FB9+','0','','KG','1','箱') [ RunTime:0.0325s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('003cc816965511ea8d757cd30ac4d7e6','16dm037','但马冰鲜三角肉FB7-8','0','','KG','1','箱') [ RunTime:0.0311s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0042871c965511ea8d757cd30ac4d7e6','16dm069','但马保乐FB9+','0','','KG','1','箱') [ RunTime:0.0337s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0047f85c965511ea8d757cd30ac4d7e6','16dm038','但马冰鲜上脑边（牛板腱）FB7-8','0','','KG','1','箱') [ RunTime:0.0321s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('004f41a5965511ea8d757cd30ac4d7e6','16dm070','但马上脑心FB9+','0','','KG','1','箱') [ RunTime:0.0306s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00551a82965511ea8d757cd30ac4d7e6','16dm040','但马冰鲜颈肉卷末端FB7-8','0','','KG','1','箱') [ RunTime:0.0326s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('005a06db965511ea8d757cd30ac4d7e6','16dm071','但马去盖臀肉FB9+','0','','KG','1','箱') [ RunTime:0.0315s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('005fbf7f965511ea8d757cd30ac4d7e6','16dm072','但马前胸FB7-8','0','','KG','1','箱') [ RunTime:0.0310s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('006465cb965511ea8d757cd30ac4d7e6','16dm041','但马冰鲜保乐FB7-8','0','','KG','1','箱') [ RunTime:0.0318s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00695115965511ea8d757cd30ac4d7e6','16dm042','但马冰鲜板腱FB7-8','0','','KG','1','箱') [ RunTime:0.0302s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('006ea226965511ea8d757cd30ac4d7e6','16dm043','但马冰鲜嫩肩FB7-8','0','','KG','1','箱') [ RunTime:0.0311s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00738483965511ea8d757cd30ac4d7e6','16dm073','但马前胸FB9+','0','','KG','1','箱') [ RunTime:0.0320s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0078501a965511ea8d757cd30ac4d7e6','16dm044','但马冰鲜边肉FB7-8','0','','KG','1','箱') [ RunTime:0.0294s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('007dda9b965511ea8d757cd30ac4d7e6','16dm074','但马牛腱CFB7-8','0','','KG','1','箱') [ RunTime:0.0450s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0082fd9e965511ea8d757cd30ac4d7e6','16dm045','但马冰鲜前胸FB7-8','0','','KG','1','箱') [ RunTime:0.0316s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0087ff8a965511ea8d757cd30ac4d7e6','16dm046','但马冰鲜腹心肉FB7-8','0','','KG','1','箱') [ RunTime:0.0323s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('008d556a965511ea8d757cd30ac4d7e6','16dm075','但马牛腱CFB9+','0','','KG','1','箱') [ RunTime:0.0303s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0092242e965511ea8d757cd30ac4d7e6','16dm047','但马冰鲜西冷FB7-8','0','','KG','1','箱') [ RunTime:0.0346s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00989573965511ea8d757cd30ac4d7e6','16dm076','但马西冷FB7-8/外脊','0','','KG','1','箱') [ RunTime:0.0305s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('009e51a3965511ea8d757cd30ac4d7e6','16dm048','但马冰鲜牛柳FB7-8','0','','KG','1','箱') [ RunTime:0.0300s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00a3dfdc965511ea8d757cd30ac4d7e6','16dm049','但马冰鲜撒撒米FB7-8','0','','KG','1','箱') [ RunTime:0.0364s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00a8ae53965511ea8d757cd30ac4d7e6','16dm077','但马西冷FB9+/外脊','0','','KG','1','箱') [ RunTime:0.0306s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00ad87d4965511ea8d757cd30ac4d7e6','16dm078','但马眼肉FB7-8','0','','KG','1','箱') [ RunTime:0.0363s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00b2f3f8965511ea8d757cd30ac4d7e6','16dm079','但马眼肉FB9+','0','','KG','1','箱') [ RunTime:0.0337s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00b8492e965511ea8d757cd30ac4d7e6','16dm050','但马冰鲜横膈膜（内裙肉）FB7-8','0','','KG','1','箱') [ RunTime:0.0375s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00bcfa5a965511ea8d757cd30ac4d7e6','16dm051','但马冰鲜后胸FB7-8','0','','KG','1','箱') [ RunTime:0.0329s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00c1b6bf965511ea8d757cd30ac4d7e6','16dm052','但马冰鲜牛小排（短肋肉）FB7-8','0','','KG','1','箱') [ RunTime:0.0326s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00c64866965511ea8d757cd30ac4d7e6','16dm053','但马冰鲜眼肉FB7-8','0','','KG','1','箱') [ RunTime:0.0306s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00cb2da9965511ea8d757cd30ac4d7e6','16dm054','但马冰鲜肋背FB7-8','0','','KG','1','箱') [ RunTime:0.0308s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00d135d1965511ea8d757cd30ac4d7e6','16dm055','但马冰鲜眼肉盖（泪眼眉）FB7-8','0','','KG','1','箱') [ RunTime:0.0331s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00d5cf1b965511ea8d757cd30ac4d7e6','16dm080','但马撒撒米(牛腩排F-肉)FB9+','0','','KG','1','箱') [ RunTime:0.0311s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00da9778965511ea8d757cd30ac4d7e6','16dm056','但马冰鲜三角肩肉FB7-8','0','','KG','1','箱') [ RunTime:0.0297s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00df5191965511ea8d757cd30ac4d7e6','16dm057','但马冰鲜肋条肉FB7-8','0','','KG','1','箱') [ RunTime:0.0327s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00e4df82965511ea8d757cd30ac4d7e6','16dm058','但马冰鲜肋条肌FB7-8','0','','KG','1','箱') [ RunTime:0.0316s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00e9bbd3965511ea8d757cd30ac4d7e6','16dm059','但马冰鲜精修腱子肉A FB7-8','0','','KG','1','箱') [ RunTime:0.0332s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00ef50a5965511ea8d757cd30ac4d7e6','16dm060','但马冰鲜精修腱子肉B FB7-8','0','','KG','1','箱') [ RunTime:0.0344s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00f416fd965511ea8d757cd30ac4d7e6','16dm061','但马冰鲜精修腱子肉C FB7-8','0','','KG','1','箱') [ RunTime:0.0315s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00f91d2e965511ea8d757cd30ac4d7e6','16dm062','但马冰鲜精修腱子肉D FB7-8','0','','KG','1','箱') [ RunTime:0.0309s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00fdda82965511ea8d757cd30ac4d7e6','16dm063','但马冰鲜精修腱子肉E FB7-8','0','','KG','1','箱') [ RunTime:0.0333s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0102808e965511ea8d757cd30ac4d7e6','16dm064','但马冰鲜精修腱子肉F FB7-8','0','','KG','1','箱') [ RunTime:0.0301s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01081deb965511ea8d757cd30ac4d7e6','16dm039','但马冰鲜上脑心FB7-8','0','','KG','1','箱') [ RunTime:0.0306s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('010d5fd0965511ea8d757cd30ac4d7e6','8010580','耘垦鸡胸 ','1','14.9KG/箱','KG','14.9','箱') [ RunTime:0.0326s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0112b982965511ea8d757cd30ac4d7e6','80104056','正大琵琶腿M ','1','9KG/箱','KG','9','箱') [ RunTime:0.0315s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0118a2cd965511ea8d757cd30ac4d7e6','8010759','寿光鸡全腿C5','1','10KG/箱','KG','10','箱') [ RunTime:0.0303s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('011d7003965511ea8d757cd30ac4d7e6','8010760','寿光鸡全腿D6','1','10KG/箱','KG','10','箱') [ RunTime:0.0304s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01226e7d965511ea8d757cd30ac4d7e6','80104057','寿光琵琶腿（调理）M ','1','9KG/箱','KG','9','箱') [ RunTime:0.0311s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0128fcca965511ea8d757cd30ac4d7e6','16ljjg0129','美国猪大排火锅片（瘦）','0','','KG','1','盒') [ RunTime:0.0320s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('012d88e9965511ea8d757cd30ac4d7e6','8010581','丰联鸡胸（去油） ','1','10KG/箱','KG','10','箱') [ RunTime:0.0334s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01328928965511ea8d757cd30ac4d7e6','8010582','丰联鸡胸（带油） 9.8KG/箱','1','9.8KG/箱','KG','9.8','箱') [ RunTime:0.0302s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('013776df965511ea8d757cd30ac4d7e6','8082311','西班牙4425进口猪舌（无根） 10KG/箱','1','','KG','10','箱') [ RunTime:0.0317s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('013df18a965511ea8d757cd30ac4d7e6','8090210','阿根廷2025牛腩','0','','KG','30','箱') [ RunTime:0.0298s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01437a90965511ea8d757cd30ac4d7e6','8091018','新西兰82牛肚','0','','KG','30','箱') [ RunTime:0.0308s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01485b5c965511ea8d757cd30ac4d7e6','8020135','六和鸭腿  ','1','9.5KG/箱','KG','9.5','箱') [ RunTime:0.0319s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('014d91c5965511ea8d757cd30ac4d7e6','16zm003','炙默牛前胸','0','','KG','1','箱') [ RunTime:0.0308s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0152e2ea965511ea8d757cd30ac4d7e6','8011123','丰联凤爪S ','1','10KG/箱','KG','10','箱') [ RunTime:0.0325s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01594bda965511ea8d757cd30ac4d7e6','8011318','丰联鸡壳 ','1','10KG/箱','KG','10','箱') [ RunTime:0.0299s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('015e8d8b965511ea8d757cd30ac4d7e6','8080147','颐丰冰鲜前段（分）','0','','KG','25','片') [ RunTime:0.0320s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01640cab965511ea8d757cd30ac4d7e6','8080148','颐丰冰鲜中段（分）','0','','KG','25','片') [ RunTime:0.0325s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('016a307d965511ea8d757cd30ac4d7e6','8080149','颐丰冰鲜后段（分）','0','','KG','25','片') [ RunTime:0.0303s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('016fac81965511ea8d757cd30ac4d7e6','16ty00011dc','天源冻猪1号肉','1','','KG','25','箱') [ RunTime:0.0295s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0174ada7965511ea8d757cd30ac4d7e6','16wc079dc','鹌鹑蛋','0','','KG','1','箱') [ RunTime:0.0300s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('017b3c36965511ea8d757cd30ac4d7e6','16x028','黑芝麻方糕','0','','KG','1','箱') [ RunTime:0.0325s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0180805a965511ea8d757cd30ac4d7e6','16lbtx029','原味方糕','0','','KG','1','箱') [ RunTime:0.0330s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01857c31965511ea8d757cd30ac4d7e6','16ljdp0102dc','绿津肥牛肉片','1','500g/盒','KG','16','箱') [ RunTime:0.0309s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('018a111f965511ea8d757cd30ac4d7e6','16zmfg001','炙默牛腱(分割)','1','600*g/包','KG','18','箱') [ RunTime:0.0315s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('018fc94d965511ea8d757cd30ac4d7e6','16zmfg002','炙默牛腩(分割)','1','400*g/包','KG','16','箱') [ RunTime:0.0315s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01946f72965511ea8d757cd30ac4d7e6','16zmfg003','炙默牛尾（分割）','0','400*g/包','KG','0.4','包') [ RunTime:0.0326s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0199a0f2965511ea8d757cd30ac4d7e6','8080150','颐丰冰鲜后段（商）','0','','KG','25','片') [ RunTime:0.0306s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('019e8cc3965511ea8d757cd30ac4d7e6','8080151','颐丰冰鲜中段（商）','0','','KG','25','片') [ RunTime:0.0319s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01a55f5f965511ea8d757cd30ac4d7e6','8080152','颐丰冰鲜前段（商）','0','','KG','25','片') [ RunTime:0.0300s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01aa88c2965511ea8d757cd30ac4d7e6','80104058','中天琵琶腿M ','1','10KG/箱','KG','10','箱') [ RunTime:0.0293s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01af8879965511ea8d757cd30ac4d7e6','80104059','中天琵琶腿L ','1','10KG/箱','KG','10','箱') [ RunTime:0.0326s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01b54994965511ea8d757cd30ac4d7e6','80104060','中天琵琶腿LL ','1','10KG/箱','KG','10','箱') [ RunTime:0.0315s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01ba80dc965511ea8d757cd30ac4d7e6','80103105','三融鸡爪 ','1','9.7KG/箱','KG','9.7','箱') [ RunTime:0.0303s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01bf8344965511ea8d757cd30ac4d7e6','8111217','宫保鸡丁 ','1','10KG/箱','KG','10','箱') [ RunTime:0.0325s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01c59446965511ea8d757cd30ac4d7e6','8020820','弘发鸭头(8个) 1*','1','12KG/箱','KG','12','箱') [ RunTime:0.0319s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01cab9fa965511ea8d757cd30ac4d7e6','8121318','弘发鸭舌L 1*','1','12KG/箱','KG','12','箱') [ RunTime:0.0308s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01cfea08965511ea8d757cd30ac4d7e6','16wc080dc','乔老爷冷冻八宝饭200g/只','1','200g*40只','KG','8','箱') [ RunTime:0.0313s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01d4fb72965511ea8d757cd30ac4d7e6','16lsdc010','雪花牛肉粒','0','','KG','1','箱') [ RunTime:0.0309s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01da3727965511ea8d757cd30ac4d7e6','16lsdc011','蚝油牛肉片','0','','KG','1','箱') [ RunTime:0.0308s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01dfc89f965511ea8d757cd30ac4d7e6','16lsdc012','蚝油牛柳','0','','KG','1','箱') [ RunTime:0.0307s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01e451d4965511ea8d757cd30ac4d7e6','16lsdc013','牛仔骨','0','','KG','1','箱') [ RunTime:0.0308s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01e90dbb965511ea8d757cd30ac4d7e6','8020441','弘发鸭中翅 ','1','10KG/箱','KG','10','箱') [ RunTime:0.0324s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01ee4451965511ea8d757cd30ac4d7e6','16dm065','但马243牛修清前胸肉（6肋）','0','','KG','1','箱') [ RunTime:0.0315s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01f3a660965511ea8d757cd30ac4d7e6','80101017','天颐康S翅中 ','1','10KG/箱','KG','10','箱') [ RunTime:0.0321s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01f86edb965511ea8d757cd30ac4d7e6','16lbtx030','东北老哈（奶油）','0','','KG','1','箱') [ RunTime:0.0311s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01fd8980965511ea8d757cd30ac4d7e6','16lbtx031','东北老哈（奶酪）','0','','KG','1','箱') [ RunTime:0.0330s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('02024e04965511ea8d757cd30ac4d7e6','16lbtx032','东北老哈（酸奶）','0','','KG','1','箱') [ RunTime:0.0304s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0206fec7965511ea8d757cd30ac4d7e6','16lbtx033','东北老哈原味（托盒）','0','','KG','1','箱') [ RunTime:0.0386s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('020c443a965511ea8d757cd30ac4d7e6','16lbtx034','东北老哈奶酪（托盒）','0','','KG','1','�') [ RunTime:0.0300s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002673s ]
+
+[ 2020-06-04T14:16:49+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002489s ]
+SQL: SHOW COLUMNS FROM `bd_inventory` [ RunTime:0.0312s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0001c825965511ea8d757cd30ac4d7e6','16zd2096','鲜3:7碎肉','15KG/包','KG','1','15','箱') [ RunTime:0.0364s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('000a7532965511ea8d757cd30ac4d7e6','8082629','颐丰冰鲜脚圈 10KG/包','','KG','1','10','包') [ RunTime:0.0317s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('000f4e0f965511ea8d757cd30ac4d7e6','16dm031','但马冰鲜去盖臀肉FB7-8','','KG','0','1','箱') [ RunTime:0.0327s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0014012f965511ea8d757cd30ac4d7e6','16dm032','但马冰鲜小米龙FB7-8','','KG','0','1','箱') [ RunTime:0.0337s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00193888965511ea8d757cd30ac4d7e6','16dm033','但马冰鲜大米龙FB7-8','','KG','0','1','箱') [ RunTime:0.0329s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('001e4485965511ea8d757cd30ac4d7e6','16dm034','但马冰鲜牛霖（和尚头）FB7-8','','KG','0','1','箱') [ RunTime:0.0390s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00236b5b965511ea8d757cd30ac4d7e6','16dm066','但马撒撒米(牛腩排F-肉)FB7-8','','KG','0','1','箱') [ RunTime:0.0334s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00289b28965511ea8d757cd30ac4d7e6','16dm035','但马冰鲜臀腰肉盖FB7-8','','KG','0','1','箱') [ RunTime:0.0317s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('002d7a1d965511ea8d757cd30ac4d7e6','16dm067','但马肋条肉FB9+','','KG','0','1','箱') [ RunTime:0.0318s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00332c45965511ea8d757cd30ac4d7e6','16dm036','但马冰鲜臀腰肉心FB7-8','','KG','0','1','箱') [ RunTime:0.0317s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0037fa94965511ea8d757cd30ac4d7e6','16dm068','但马肋条肌FB9+','','KG','0','1','箱') [ RunTime:0.0311s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('003cc816965511ea8d757cd30ac4d7e6','16dm037','但马冰鲜三角肉FB7-8','','KG','0','1','箱') [ RunTime:0.0302s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0042871c965511ea8d757cd30ac4d7e6','16dm069','但马保乐FB9+','','KG','0','1','箱') [ RunTime:0.0311s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0047f85c965511ea8d757cd30ac4d7e6','16dm038','但马冰鲜上脑边（牛板腱）FB7-8','','KG','0','1','箱') [ RunTime:0.0324s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('004f41a5965511ea8d757cd30ac4d7e6','16dm070','但马上脑心FB9+','','KG','0','1','箱') [ RunTime:0.0331s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00551a82965511ea8d757cd30ac4d7e6','16dm040','但马冰鲜颈肉卷末端FB7-8','','KG','0','1','箱') [ RunTime:0.0307s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('005a06db965511ea8d757cd30ac4d7e6','16dm071','但马去盖臀肉FB9+','','KG','0','1','箱') [ RunTime:0.0309s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('005fbf7f965511ea8d757cd30ac4d7e6','16dm072','但马前胸FB7-8','','KG','0','1','箱') [ RunTime:0.0397s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('006465cb965511ea8d757cd30ac4d7e6','16dm041','但马冰鲜保乐FB7-8','','KG','0','1','箱') [ RunTime:0.0318s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00695115965511ea8d757cd30ac4d7e6','16dm042','但马冰鲜板腱FB7-8','','KG','0','1','箱') [ RunTime:0.0315s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('006ea226965511ea8d757cd30ac4d7e6','16dm043','但马冰鲜嫩肩FB7-8','','KG','0','1','箱') [ RunTime:0.0326s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00738483965511ea8d757cd30ac4d7e6','16dm073','但马前胸FB9+','','KG','0','1','箱') [ RunTime:0.0317s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0078501a965511ea8d757cd30ac4d7e6','16dm044','但马冰鲜边肉FB7-8','','KG','0','1','箱') [ RunTime:0.0348s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('007dda9b965511ea8d757cd30ac4d7e6','16dm074','但马牛腱CFB7-8','','KG','0','1','箱') [ RunTime:0.0318s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0082fd9e965511ea8d757cd30ac4d7e6','16dm045','但马冰鲜前胸FB7-8','','KG','0','1','箱') [ RunTime:0.0376s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0087ff8a965511ea8d757cd30ac4d7e6','16dm046','但马冰鲜腹心肉FB7-8','','KG','0','1','箱') [ RunTime:0.0328s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('008d556a965511ea8d757cd30ac4d7e6','16dm075','但马牛腱CFB9+','','KG','0','1','箱') [ RunTime:0.0327s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0092242e965511ea8d757cd30ac4d7e6','16dm047','但马冰鲜西冷FB7-8','','KG','0','1','箱') [ RunTime:0.0305s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00989573965511ea8d757cd30ac4d7e6','16dm076','但马西冷FB7-8/外脊','','KG','0','1','箱') [ RunTime:0.0309s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('009e51a3965511ea8d757cd30ac4d7e6','16dm048','但马冰鲜牛柳FB7-8','','KG','0','1','箱') [ RunTime:0.0318s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00a3dfdc965511ea8d757cd30ac4d7e6','16dm049','但马冰鲜撒撒米FB7-8','','KG','0','1','箱') [ RunTime:0.0318s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00a8ae53965511ea8d757cd30ac4d7e6','16dm077','但马西冷FB9+/外脊','','KG','0','1','箱') [ RunTime:0.0345s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00ad87d4965511ea8d757cd30ac4d7e6','16dm078','但马眼肉FB7-8','','KG','0','1','箱') [ RunTime:0.0307s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00b2f3f8965511ea8d757cd30ac4d7e6','16dm079','但马眼肉FB9+','','KG','0','1','箱') [ RunTime:0.0308s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00b8492e965511ea8d757cd30ac4d7e6','16dm050','但马冰鲜横膈膜（内裙肉）FB7-8','','KG','0','1','箱') [ RunTime:0.0336s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00bcfa5a965511ea8d757cd30ac4d7e6','16dm051','但马冰鲜后胸FB7-8','','KG','0','1','箱') [ RunTime:0.0304s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00c1b6bf965511ea8d757cd30ac4d7e6','16dm052','但马冰鲜牛小排（短肋肉）FB7-8','','KG','0','1','箱') [ RunTime:0.0351s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00c64866965511ea8d757cd30ac4d7e6','16dm053','但马冰鲜眼肉FB7-8','','KG','0','1','箱') [ RunTime:0.0314s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00cb2da9965511ea8d757cd30ac4d7e6','16dm054','但马冰鲜肋背FB7-8','','KG','0','1','箱') [ RunTime:0.0328s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00d135d1965511ea8d757cd30ac4d7e6','16dm055','但马冰鲜眼肉盖（泪眼眉）FB7-8','','KG','0','1','箱') [ RunTime:0.0315s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00d5cf1b965511ea8d757cd30ac4d7e6','16dm080','但马撒撒米(牛腩排F-肉)FB9+','','KG','0','1','箱') [ RunTime:0.0308s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00da9778965511ea8d757cd30ac4d7e6','16dm056','但马冰鲜三角肩肉FB7-8','','KG','0','1','箱') [ RunTime:0.0319s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00df5191965511ea8d757cd30ac4d7e6','16dm057','但马冰鲜肋条肉FB7-8','','KG','0','1','箱') [ RunTime:0.0321s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00e4df82965511ea8d757cd30ac4d7e6','16dm058','但马冰鲜肋条肌FB7-8','','KG','0','1','箱') [ RunTime:0.0312s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00e9bbd3965511ea8d757cd30ac4d7e6','16dm059','但马冰鲜精修腱子肉A FB7-8','','KG','0','1','箱') [ RunTime:0.0316s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00ef50a5965511ea8d757cd30ac4d7e6','16dm060','但马冰鲜精修腱子肉B FB7-8','','KG','0','1','箱') [ RunTime:0.0318s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00f416fd965511ea8d757cd30ac4d7e6','16dm061','但马冰鲜精修腱子肉C FB7-8','','KG','0','1','箱') [ RunTime:0.0309s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00f91d2e965511ea8d757cd30ac4d7e6','16dm062','但马冰鲜精修腱子肉D FB7-8','','KG','0','1','箱') [ RunTime:0.0334s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('00fdda82965511ea8d757cd30ac4d7e6','16dm063','但马冰鲜精修腱子肉E FB7-8','','KG','0','1','箱') [ RunTime:0.0317s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0102808e965511ea8d757cd30ac4d7e6','16dm064','但马冰鲜精修腱子肉F FB7-8','','KG','0','1','箱') [ RunTime:0.0308s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01081deb965511ea8d757cd30ac4d7e6','16dm039','但马冰鲜上脑心FB7-8','','KG','0','1','箱') [ RunTime:0.0299s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('010d5fd0965511ea8d757cd30ac4d7e6','8010580','耘垦鸡胸 ','14.9KG/箱','KG','1','14.9','箱') [ RunTime:0.0327s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0112b982965511ea8d757cd30ac4d7e6','80104056','正大琵琶腿M ','9KG/箱','KG','1','9','箱') [ RunTime:0.0328s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0118a2cd965511ea8d757cd30ac4d7e6','8010759','寿光鸡全腿C5','10KG/箱','KG','1','10','箱') [ RunTime:0.0305s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('011d7003965511ea8d757cd30ac4d7e6','8010760','寿光鸡全腿D6','10KG/箱','KG','1','10','箱') [ RunTime:0.0299s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01226e7d965511ea8d757cd30ac4d7e6','80104057','寿光琵琶腿（调理）M ','9KG/箱','KG','1','9','箱') [ RunTime:0.0305s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0128fcca965511ea8d757cd30ac4d7e6','16ljjg0129','美国猪大排火锅片（瘦）','','KG','0','1','盒') [ RunTime:0.0317s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('012d88e9965511ea8d757cd30ac4d7e6','8010581','丰联鸡胸（去油） ','10KG/箱','KG','1','10','箱') [ RunTime:0.0310s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01328928965511ea8d757cd30ac4d7e6','8010582','丰联鸡胸（带油） 9.8KG/箱','9.8KG/箱','KG','1','9.8','箱') [ RunTime:0.0315s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('013776df965511ea8d757cd30ac4d7e6','8082311','西班牙4425进口猪舌（无根） 10KG/箱','','KG','1','10','箱') [ RunTime:0.0298s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('013df18a965511ea8d757cd30ac4d7e6','8090210','阿根廷2025牛腩','','KG','0','30','箱') [ RunTime:0.0317s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01437a90965511ea8d757cd30ac4d7e6','8091018','新西兰82牛肚','','KG','0','30','箱') [ RunTime:0.0321s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01485b5c965511ea8d757cd30ac4d7e6','8020135','六和鸭腿  ','9.5KG/箱','KG','1','9.5','箱') [ RunTime:0.0312s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('014d91c5965511ea8d757cd30ac4d7e6','16zm003','炙默牛前胸','','KG','0','1','箱') [ RunTime:0.0298s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0152e2ea965511ea8d757cd30ac4d7e6','8011123','丰联凤爪S ','10KG/箱','KG','1','10','箱') [ RunTime:0.0316s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01594bda965511ea8d757cd30ac4d7e6','8011318','丰联鸡壳 ','10KG/箱','KG','1','10','箱') [ RunTime:0.0299s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('015e8d8b965511ea8d757cd30ac4d7e6','8080147','颐丰冰鲜前段（分）','','KG','0','25','片') [ RunTime:0.0307s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01640cab965511ea8d757cd30ac4d7e6','8080148','颐丰冰鲜中段（分）','','KG','0','25','片') [ RunTime:0.0333s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('016a307d965511ea8d757cd30ac4d7e6','8080149','颐丰冰鲜后段（分）','','KG','0','25','片') [ RunTime:0.0309s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('016fac81965511ea8d757cd30ac4d7e6','16ty00011dc','天源冻猪1号肉','','KG','1','25','箱') [ RunTime:0.0328s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0174ada7965511ea8d757cd30ac4d7e6','16wc079dc','鹌鹑蛋','','KG','0','1','箱') [ RunTime:0.0306s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('017b3c36965511ea8d757cd30ac4d7e6','16x028','黑芝麻方糕','','KG','0','1','箱') [ RunTime:0.0349s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0180805a965511ea8d757cd30ac4d7e6','16lbtx029','原味方糕','','KG','0','1','箱') [ RunTime:0.0315s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01857c31965511ea8d757cd30ac4d7e6','16ljdp0102dc','绿津肥牛肉片','500g/盒','KG','1','16','箱') [ RunTime:0.0323s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('018a111f965511ea8d757cd30ac4d7e6','16zmfg001','炙默牛腱(分割)','600*g/包','KG','1','18','箱') [ RunTime:0.0366s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('018fc94d965511ea8d757cd30ac4d7e6','16zmfg002','炙默牛腩(分割)','400*g/包','KG','1','16','箱') [ RunTime:0.0303s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01946f72965511ea8d757cd30ac4d7e6','16zmfg003','炙默牛尾（分割）','400*g/包','KG','0','0.4','包') [ RunTime:0.0432s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0199a0f2965511ea8d757cd30ac4d7e6','8080150','颐丰冰鲜后段（商）','','KG','0','25','片') [ RunTime:0.0316s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('019e8cc3965511ea8d757cd30ac4d7e6','8080151','颐丰冰鲜中段（商）','','KG','0','25','片') [ RunTime:0.0307s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01a55f5f965511ea8d757cd30ac4d7e6','8080152','颐丰冰鲜前段（商）','','KG','0','25','片') [ RunTime:0.0299s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01aa88c2965511ea8d757cd30ac4d7e6','80104058','中天琵琶腿M ','10KG/箱','KG','1','10','箱') [ RunTime:0.0316s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01af8879965511ea8d757cd30ac4d7e6','80104059','中天琵琶腿L ','10KG/箱','KG','1','10','箱') [ RunTime:0.0325s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01b54994965511ea8d757cd30ac4d7e6','80104060','中天琵琶腿LL ','10KG/箱','KG','1','10','箱') [ RunTime:0.0317s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01ba80dc965511ea8d757cd30ac4d7e6','80103105','三融鸡爪 ','9.7KG/箱','KG','1','9.7','箱') [ RunTime:0.0325s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01bf8344965511ea8d757cd30ac4d7e6','8111217','宫保鸡丁 ','10KG/箱','KG','1','10','箱') [ RunTime:0.0334s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01c59446965511ea8d757cd30ac4d7e6','8020820','弘发鸭头(8个) 1*','12KG/箱','KG','1','12','箱') [ RunTime:0.0336s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01cab9fa965511ea8d757cd30ac4d7e6','8121318','弘发鸭舌L 1*','12KG/箱','KG','1','12','箱') [ RunTime:0.0316s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01cfea08965511ea8d757cd30ac4d7e6','16wc080dc','乔老爷冷冻八宝饭200g/只','200g*40只','KG','1','8','箱') [ RunTime:0.0316s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01d4fb72965511ea8d757cd30ac4d7e6','16lsdc010','雪花牛肉粒','','KG','0','1','箱') [ RunTime:0.0301s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01da3727965511ea8d757cd30ac4d7e6','16lsdc011','蚝油牛肉片','','KG','0','1','箱') [ RunTime:0.0305s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01dfc89f965511ea8d757cd30ac4d7e6','16lsdc012','蚝油牛柳','','KG','0','1','箱') [ RunTime:0.0474s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01e451d4965511ea8d757cd30ac4d7e6','16lsdc013','牛仔骨','','KG','0','1','箱') [ RunTime:0.0324s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01e90dbb965511ea8d757cd30ac4d7e6','8020441','弘发鸭中翅 ','10KG/箱','KG','1','10','箱') [ RunTime:0.0326s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01ee4451965511ea8d757cd30ac4d7e6','16dm065','但马243牛修清前胸肉（6肋）','','KG','0','1','箱') [ RunTime:0.0317s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01f3a660965511ea8d757cd30ac4d7e6','80101017','天颐康S翅中 ','10KG/箱','KG','1','10','箱') [ RunTime:0.0297s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01f86edb965511ea8d757cd30ac4d7e6','16lbtx030','东北老哈（奶油）','','KG','0','1','箱') [ RunTime:0.0315s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('01fd8980965511ea8d757cd30ac4d7e6','16lbtx031','东北老哈（奶酪）','','KG','0','1','箱') [ RunTime:0.0298s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('02024e04965511ea8d757cd30ac4d7e6','16lbtx032','东北老哈（酸奶）','','KG','0','1','箱') [ RunTime:0.0315s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('0206fec7965511ea8d757cd30ac4d7e6','16lbtx033','东北老哈原味（托盒）','','KG','0','1','箱') [ RunTime:0.0310s ]
+SQL: INSERT INTO `bd_inventory` (`sid`,`scode`,`name`,`spec`,`KG`,`isstandard`,`hsl`,`uname`) VALUES ('020c443a965511ea8d757cd30ac4d7e6','16lbtx034','东北老哈奶酪（托盒）','','KG','0','1','�') [ RunTime:0.0314s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000763s ]
+
+[ 2020-06-04T16:23:41+08:00 ] ::1 /index.php/home/Pda/CheckcodeDeduplication
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001004s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002140s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002188s ]
+
+[ 2020-06-04T16:23:56+08:00 ] ::1 /index.php/home/Pda/CheckcodeDeduplication
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000877s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001153s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0538s ]
+ERR: Too few arguments to function I(), 0 passed in /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php on line 20 and at least 1 expected
+
+[ 2020-06-04T16:24:28+08:00 ] ::1 /index.php/home/Pda/CheckcodeDeduplication
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001403s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0307s ]
+NOTIC: [8] Undefined index: code /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 21 行.
+SQL: SELECT * FROM `bd_tray` WHERE `left_code` = null OR `right_code` = null LIMIT 1   [ RunTime:0.0313s ]
+
+[ 2020-06-04T16:24:35+08:00 ] ::1 /index.php/home/Pda/CheckcodeDeduplication
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001802s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0305s ]
+NOTIC: [8] Undefined index: code /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 21 行.
+SQL: SELECT * FROM `bd_tray` WHERE `left_code` = null OR `right_code` = null LIMIT 1   [ RunTime:0.0299s ]
+
+[ 2020-06-04T16:24:46+08:00 ] ::1 /index.php/home/Pda/CheckcodeDeduplication?code=111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0378s ]
+SQL: SELECT * FROM `bd_tray` WHERE `left_code` = '111' OR `right_code` = '111' LIMIT 1   [ RunTime:0.0302s ]
+
+[ 2020-06-04T16:25:38+08:00 ] ::1 /index.php/home/Pda/CheckcodeDeduplication?code=111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007017s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001135s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0306s ]
+SQL: SELECT * FROM `bd_tray` WHERE `left_code` = '111' OR `right_code` = '111' LIMIT 1   [ RunTime:0.0297s ]
+
+[ 2020-06-04T16:25:39+08:00 ] ::1 /index.php/home/Pda/CheckcodeDeduplication?code=111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002400s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0298s ]
+SQL: SELECT * FROM `bd_tray` WHERE `left_code` = '111' OR `right_code` = '111' LIMIT 1   [ RunTime:0.0286s ]
+
+[ 2020-06-04T16:25:41+08:00 ] ::1 /index.php/home/Pda/CheckcodeDeduplication?code=1111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001033s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0325s ]
+SQL: SELECT * FROM `bd_tray` WHERE `left_code` = '1111' OR `right_code` = '1111' LIMIT 1   [ RunTime:0.0328s ]
+
+[ 2020-06-04T16:26:11+08:00 ] ::1 /index.php/home/Pda/CheckcodeDeduplication?code=1111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006890s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008005s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008067s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0316s ]
+SQL: SELECT * FROM `bd_tray` WHERE `left_code` = '1111' OR `right_code` = '1111' LIMIT 1   [ RunTime:0.0315s ]
+
+[ 2020-06-04T16:26:34+08:00 ] ::1 /index.php/home/Pda/CheckcodeDeduplication?code=1111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001762s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0306s ]
+SQL: SELECT * FROM `bd_tray` WHERE `left_code` = '1111' OR `right_code` = '1111' LIMIT 1   [ RunTime:0.0293s ]
+
+[ 2020-06-04T16:26:41+08:00 ] ::1 /index.php/home/Pda/CheckcodeDeduplication?code=1111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000810s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0302s ]
+SQL: SELECT * FROM `bd_tray` WHERE `left_code` = '1111' OR `right_code` = '1111' LIMIT 1   [ RunTime:0.0296s ]
+
+[ 2020-06-04T16:28:27+08:00 ] ::1 /home/Pda/CheckcodeDeduplication?code=1111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000905s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001156s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001208s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0304s ]
+SQL: SELECT * FROM `bd_tray` WHERE `left_code` = '1111' OR `right_code` = '1111' LIMIT 1   [ RunTime:0.0281s ]
+
+[ 2020-06-04T16:32:21+08:00 ] ::1 /home/Pda/codeSave?left_code=1111&right_code=333aa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001830s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0317s ]
+SQL: INSERT INTO `bd_tray` (`left_code`,`right_code`,`create_time`) VALUES ('1111','333aa','1591259541') [ RunTime:0.0452s ]
+
+[ 2020-06-04T16:33:33+08:00 ] ::1 /home/Pda/codeSave?left_code=1111&right_code=333aa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001749s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0318s ]
+ERR: 1062:Duplicate entry '1111' for key 'left_code'
+ [ SQL语句 ] : INSERT INTO `bd_tray` (`left_code`,`right_code`,`create_time`) VALUES ('1111','333aa','1591259612')
+ERR: 1062:Duplicate entry '1111' for key 'left_code'
+ [ SQL语句 ] : INSERT INTO `bd_tray` (`left_code`,`right_code`,`create_time`) VALUES ('1111','333aa','1591259612')
+
+[ 2020-06-04T16:35:17+08:00 ] ::1 /home/Pda/codeSave?left_code=1111&right_code=333aa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001823s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0321s ]
+ERR: 1062:Duplicate entry '1111' for key 'left_code'
+ [ SQL语句 ] : INSERT INTO `bd_tray` (`left_code`,`right_code`,`create_time`) VALUES ('1111','333aa','1591259717')
+ERR: 1062:Duplicate entry '1111' for key 'left_code'
+ [ SQL语句 ] : INSERT INTO `bd_tray` (`left_code`,`right_code`,`create_time`) VALUES ('1111','333aa','1591259717')
+
+[ 2020-06-04T16:35:39+08:00 ] ::1 /home/Pda/codeSave?left_code=1111&right_code=333aa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001090s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0316s ]
+ERR: 1062:Duplicate entry '1111' for key 'left_code'
+ [ SQL语句 ] : INSERT INTO `bd_tray` (`left_code`,`right_code`,`create_time`) VALUES ('1111','333aa','1591259739')
+
+[ 2020-06-04T16:36:55+08:00 ] ::1 /home/Pda/codeSave?left_code=1111&right_code=333aa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005039s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0277s ]
+ERR: 1062:Duplicate entry '1111' for key 'left_code'
+ [ SQL语句 ] : INSERT INTO `bd_tray` (`left_code`,`right_code`,`create_time`) VALUES ('1111','333aa','1591259815')
+
+[ 2020-06-04T16:39:55+08:00 ] ::1 /home/Pda/codeSave?left_code=4444&right_code=333aaa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002318s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0307s ]
+SQL: INSERT INTO `bd_tray` (`left_code`,`right_code`,`create_time`) VALUES ('4444','333aaa','1591259995') [ RunTime:0.0315s ]
+ERR: 1062:Duplicate entry '4444' for key 'left_code'
+ [ SQL语句 ] : INSERT INTO `bd_tray` (`left_code`,`right_code`,`create_time`) VALUES ('4444','333aaa','1591259995')
+ERR: 1062:Duplicate entry '4444' for key 'left_code'
+ [ SQL语句 ] : INSERT INTO `bd_tray` (`left_code`,`right_code`,`create_time`) VALUES ('4444','333aaa','1591259995')
+
+[ 2020-06-04T16:40:37+08:00 ] ::1 /home/Pda/codeSave?left_code=333aaa&right_code=4444
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0298s ]
+SQL: INSERT INTO `bd_tray` (`left_code`,`right_code`,`create_time`) VALUES ('333aaa','4444','1591260037') [ RunTime:0.0579s ]
+
+[ 2020-06-04T16:47:02+08:00 ] ::1 /home/Pda/inventoryGet?key_words%20=%20%E9%A9%AC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001300s ]
+SQL: SHOW COLUMNS FROM `bd_inventory` [ RunTime:0.0394s ]
+ERR: 表达式错误:%like%
+
+[ 2020-06-04T16:47:35+08:00 ] ::1 /home/Pda/inventoryGet?key_words%20=%20%E9%A9%AC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001277s ]
+SQL: SHOW COLUMNS FROM `bd_inventory` [ RunTime:0.0272s ]
+SQL: SELECT * FROM `bd_inventory` WHERE `name` LIKE '%%' OR `scode` LIKE '%%' LIMIT 5   [ RunTime:0.0273s ]
+
+[ 2020-06-04T16:48:21+08:00 ] ::1 /home/Pda/inventoryGet?key_words=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002173s ]
+SQL: SHOW COLUMNS FROM `bd_inventory` [ RunTime:0.0301s ]
+SQL: SELECT * FROM `bd_inventory` WHERE `name` LIKE '%%' OR `scode` LIKE '%%' LIMIT 5   [ RunTime:0.0321s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008636s ]
+
+[ 2020-06-04T16:48:32+08:00 ] ::1 /home/Pda/inventoryGet?key_words=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+SQL: SHOW COLUMNS FROM `bd_inventory` [ RunTime:0.0320s ]
+SQL: SELECT * FROM `bd_inventory` WHERE `name` LIKE '%%' OR `scode` LIKE '%%' LIMIT 5   [ RunTime:0.0312s ]
+
+[ 2020-06-04T16:48:35+08:00 ] ::1 /home/Pda/inventoryGet?key_words=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000622s ]
+SQL: SHOW COLUMNS FROM `bd_inventory` [ RunTime:0.0289s ]
+SQL: SELECT * FROM `bd_inventory` WHERE `name` LIKE '%%' OR `scode` LIKE '%%' LIMIT 5   [ RunTime:0.0268s ]
+
+[ 2020-06-04T16:48:40+08:00 ] ::1 /home/Pda/inventoryGet?key_words=%E9%A9%AC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000988s ]
+SQL: SHOW COLUMNS FROM `bd_inventory` [ RunTime:0.0403s ]
+SQL: SELECT * FROM `bd_inventory` WHERE `name` LIKE '%马%' OR `scode` LIKE '%马%' LIMIT 5   [ RunTime:0.0327s ]
+
+[ 2020-06-04T16:49:05+08:00 ] ::1 /home/Pda/inventoryGet?key_words=%E9%A9%AC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003965s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004319s ]
+SQL: SHOW COLUMNS FROM `bd_inventory` [ RunTime:0.0301s ]
+SQL: SELECT * FROM `bd_inventory` WHERE `name` LIKE '%马%' OR `scode` LIKE '%马%' LIMIT 5   [ RunTime:0.0306s ]
+
+[ 2020-06-04T16:49:11+08:00 ] ::1 /home/Pda/inventoryGet?key_words=%E7%B1%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002459s ]
+SQL: SHOW COLUMNS FROM `bd_inventory` [ RunTime:0.0300s ]
+SQL: SELECT * FROM `bd_inventory` WHERE `name` LIKE '%米%' OR `scode` LIKE '%米%' LIMIT 5   [ RunTime:0.0568s ]
+
+[ 2020-06-04T17:12:04+08:00 ] ::1 /home/Pda/trayviews?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001722s ]
+
+[ 2020-06-04T17:12:07+08:00 ] ::1 /home/Pda/trayviews?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0314s ]
+SQL: SHOW COLUMNS FROM `bd_tray_inventory` [ RunTime:0.0296s ]
+SQL: SELECT * FROM `bd_tray` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0293s ]
+SQL: SELECT * FROM `bd_tray_inventory` INNER JOIN bd_inventory ON bd_inventory.sid = bd_tray_inventory.sid  WHERE `tid` = '1'  [ RunTime:0.0292s ]
+
+[ 2020-06-04T17:13:02+08:00 ] ::1 /home/Pda/trayviews?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001284s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0320s ]
+SQL: SHOW COLUMNS FROM `bd_tray_inventory` [ RunTime:0.0326s ]
+SQL: SELECT * FROM `bd_tray` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0314s ]
+SQL: SELECT * FROM `bd_tray_inventory` INNER JOIN bd_inventory ON bd_inventory.sid = bd_tray_inventory.sid  WHERE `tid` = '1'  [ RunTime:0.0285s ]
+
+[ 2020-06-04T17:16:36+08:00 ] ::1 /home/Pda/traylist?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007646s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001074s ]
+NOTIC: [8] Undefined index: page /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 83 行.
+NOTIC: [8] Undefined index: limit /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0292s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bd_tray` WHERE ( 1=1 ) LIMIT 1   [ RunTime:0.0287s ]
+SQL: SELECT * FROM `bd_tray` WHERE ( 1=1 ) LIMIT 0,10   [ RunTime:0.0310s ]
+
+[ 2020-06-04T17:38:06+08:00 ] ::1 /home/Pda/traylist?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000986s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001386s ]
+NOTIC: [8] Undefined index: page /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 121 行.
+NOTIC: [8] Undefined index: limit /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 123 行.
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0354s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bd_tray` WHERE ( 1=1 ) LIMIT 1   [ RunTime:0.0314s ]
+SQL: SELECT * FROM `bd_tray` WHERE ( 1=1 ) LIMIT 0,10   [ RunTime:0.0326s ]
+
+[ 2020-06-04T18:16:29+08:00 ] ::1 /home/Pda/trayviews?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000928s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001490s ]
+ERR: syntax error, unexpected '}'
+
+[ 2020-06-04T18:16:50+08:00 ] ::1 /home/Pda/trayviews?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000385s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001731s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000969s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0299s ]
+SQL: SHOW COLUMNS FROM `bd_tray_inventory` [ RunTime:0.0292s ]
+SQL: SELECT * FROM `bd_tray` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0287s ]
+SQL: SELECT * FROM `bd_tray_inventory` INNER JOIN bd_inventory ON bd_inventory.sid = bd_tray_inventory.sid  WHERE `tid` = '1'  [ RunTime:0.0288s ]
+

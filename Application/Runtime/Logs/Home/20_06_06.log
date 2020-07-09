@@ -1,0 +1,71 @@
+[ 2020-06-06T18:45:26+08:00 ] ::1 /home/Pda/codeSave?left_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2026%2061&right_code=00%2000%2000%2023%2022%2000%2022%2033%2000%2000%2025%2091
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010991s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009746s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0301s ]
+
+[ 2020-06-06T18:45:55+08:00 ] ::1 /home/Pda/codeSave?left_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2026%2061&right_code=00%2000%2000%2023%2022%2000%2022%2033%2000%2000%2025%2091
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003263s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0300s ]
+
+[ 2020-06-06T18:49:46+08:00 ] ::1 /home/Pda/codeSave?left_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2026%2061&right_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2032%2029
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001147s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0289s ]
+SQL: SELECT * FROM `bd_tray` WHERE `left_code` = '00 00 00 01 23 00 22 33 00 00 26 61' OR `right_code` = '00 00 00 01 23 00 22 33 00 00 32 29' LIMIT 1   [ RunTime:0.0281s ]
+SQL: INSERT INTO `bd_tray` (`left_code`,`right_code`,`depot_id`,`create_time`) VALUES ('00 00 00 01 23 00 22 33 00 00 26 61','00 00 00 01 23 00 22 33 00 00 32 29','0','1591440586') [ RunTime:0.0390s ]
+
+[ 2020-06-06T19:00:25+08:00 ] ::1 /home/Pda/codeSave?left_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2026%2061&right_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2032%2029
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001935s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002739s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0289s ]
+SQL: SELECT * FROM `bd_tray` WHERE `code_check` = '00 00 00 01 23 00' LIMIT 1   [ RunTime:0.0281s ]
+SQL: SELECT * FROM `bd_tray` WHERE `left_code` = '00 00 00 01 23 00 22 33 00 00 26 61' OR `right_code` = '00 00 00 01 23 00 22 33 00 00 32 29' LIMIT 1   [ RunTime:0.0279s ]
+SQL: INSERT INTO `bd_tray` (`left_code`,`right_code`,`depot_id`,`create_time`,`code_check`) VALUES ('00 00 00 01 23 00 22 33 00 00 26 61','00 00 00 01 23 00 22 33 00 00 32 29','0','1591441225','00 00 00 01 23 00') [ RunTime:0.0302s ]
+
+[ 2020-06-06T19:00:40+08:00 ] ::1 /home/Pda/codeSave?left_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2026%2061&right_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2032%2029
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001123s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001164s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0304s ]
+SQL: SELECT * FROM `bd_tray` WHERE `code_check` = '00 00 00 01 23 00' LIMIT 1   [ RunTime:0.0298s ]
+
+[ 2020-06-06T19:00:41+08:00 ] ::1 /home/Pda/codeSave?left_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2026%2061&right_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2032%2029
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0292s ]
+SQL: SELECT * FROM `bd_tray` WHERE `code_check` = '00 00 00 01 23 00' LIMIT 1   [ RunTime:0.0289s ]
+
+[ 2020-06-06T19:00:42+08:00 ] ::1 /home/Pda/codeSave?left_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2026%2061&right_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2032%2029
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0297s ]
+SQL: SELECT * FROM `bd_tray` WHERE `code_check` = '00 00 00 01 23 00' LIMIT 1   [ RunTime:0.0292s ]
+

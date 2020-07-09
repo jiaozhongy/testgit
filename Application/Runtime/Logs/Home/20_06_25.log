@@ -1,0 +1,73 @@
+[ 2020-06-25T15:04:13+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000362s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001856s ]
+ERR: Class 'Home\Controller\Redis' not found
+
+[ 2020-06-25T15:05:23+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001283s ]
+ERR: Class 'Home\Controller\Redis' not found
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/pda/Application/Home/Controller/IndexController.class.php:12) /Applications/MAMP/htdocs/pda/ThinkPHP/Library/Think/Think.class.php 第 256 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/pda/Application/Home/Controller/IndexController.class.php:12) /Applications/MAMP/htdocs/pda/ThinkPHP/Library/Think/Think.class.php 第 257 行.
+
+[ 2020-06-25T15:07:33+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001706s ]
+ERR: Call to a member function parseTemplate() on null
+
+[ 2020-06-25T15:09:17+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007978s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001769s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001851s ]
+
+[ 2020-06-25T15:11:49+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000931s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001133s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001187s ]
+NOTIC: [8] Object of class Home\Controller\IndexController could not be converted to int /Applications/MAMP/htdocs/pda/Application/Home/Controller/IndexController.class.php 第 22 行.
+NOTIC: [8] Object of class Home\Controller\IndexController could not be converted to int /Applications/MAMP/htdocs/pda/Application/Home/Controller/IndexController.class.php 第 23 行.
+NOTIC: [8] Object of class Home\Controller\IndexController could not be converted to int /Applications/MAMP/htdocs/pda/Application/Home/Controller/IndexController.class.php 第 24 行.
+NOTIC: [8] Object of class Home\Controller\IndexController could not be converted to int /Applications/MAMP/htdocs/pda/Application/Home/Controller/IndexController.class.php 第 25 行.
+
+[ 2020-06-25T15:14:11+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+NOTIC: [8] Object of class Home\Controller\IndexController could not be converted to int /Applications/MAMP/htdocs/pda/Application/Home/Controller/IndexController.class.php 第 22 行.
+NOTIC: [8] Object of class Home\Controller\IndexController could not be converted to int /Applications/MAMP/htdocs/pda/Application/Home/Controller/IndexController.class.php 第 23 行.
+NOTIC: [8] Object of class Home\Controller\IndexController could not be converted to int /Applications/MAMP/htdocs/pda/Application/Home/Controller/IndexController.class.php 第 24 行.
+NOTIC: [8] Object of class Home\Controller\IndexController could not be converted to int /Applications/MAMP/htdocs/pda/Application/Home/Controller/IndexController.class.php 第 25 行.
+
+[ 2020-06-25T18:14:06+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001403s ]
+ERR: Too few arguments to function Home\Controller\IndexController::__construct(), 0 passed in /Applications/MAMP/htdocs/pda/ThinkPHP/Common/functions.php on line 758 and exactly 2 expected
+

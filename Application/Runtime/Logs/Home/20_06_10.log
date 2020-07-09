@@ -1,0 +1,44 @@
+[ 2020-06-10T15:17:04+08:00 ] 127.0.0.1 /home/Pda/inventoryGet?key_words=%E9%B8%AD%E8%BE%B9%E8%85%BF
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.042590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.042655s ]
+SQL: SHOW COLUMNS FROM `bd_inventory` [ RunTime:0.0409s ]
+SQL: SHOW COLUMNS FROM `bd_tray_inventory` [ RunTime:0.0533s ]
+SQL: SELECT * FROM `bd_inventory` WHERE `name` LIKE '%鸭边腿%' OR `scode` LIKE '%鸭边腿%'  [ RunTime:0.0309s ]
+
+[ 2020-06-10T15:17:20+08:00 ] 127.0.0.1 /home/Pda/inventoryGet?key_words=%E9%B8%AD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+SQL: SHOW COLUMNS FROM `bd_inventory` [ RunTime:0.0298s ]
+SQL: SHOW COLUMNS FROM `bd_tray_inventory` [ RunTime:0.0300s ]
+SQL: SELECT * FROM `bd_inventory` WHERE `name` LIKE '%鸭%' OR `scode` LIKE '%鸭%'  [ RunTime:0.0287s ]
+
+[ 2020-06-10T15:17:47+08:00 ] 127.0.0.1 /home/Pda/inventoryGet?key_words=%E9%B8%AD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006112s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003208s ]
+SQL: SHOW COLUMNS FROM `bd_inventory` [ RunTime:0.0283s ]
+SQL: SHOW COLUMNS FROM `bd_tray_inventory` [ RunTime:0.0292s ]
+SQL: SELECT * FROM `bd_inventory` WHERE `name` LIKE '%鸭%' OR `scode` LIKE '%鸭%'  [ RunTime:0.0317s ]
+
+[ 2020-06-10T15:17:50+08:00 ] 127.0.0.1 /home/Pda/inventoryGet?key_words=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+SQL: SHOW COLUMNS FROM `bd_inventory` [ RunTime:0.0301s ]
+SQL: SHOW COLUMNS FROM `bd_tray_inventory` [ RunTime:0.0355s ]
+SQL: SELECT * FROM `bd_inventory` WHERE `name` LIKE '%%' OR `scode` LIKE '%%' LIMIT 5   [ RunTime:0.0308s ]
+

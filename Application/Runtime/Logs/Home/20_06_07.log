@@ -1,0 +1,422 @@
+[ 2020-06-07T13:58:05+08:00 ] ::1 /home/Pda/getTrayByCode?left_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2026%2061&right_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2032%2029
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002946s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002037s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0320s ]
+SQL: SELECT * FROM `bd_tray` WHERE `code_check` = '00 00 00 01 23 00' LIMIT 1   [ RunTime:0.0310s ]
+
+[ 2020-06-07T13:58:10+08:00 ] ::1 /home/Pda/getTrayByCode?left_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2026%2061&right_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2032%2029
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002577s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002625s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0303s ]
+SQL: SELECT * FROM `bd_tray` WHERE `code_check` = '00 00 00 01 23 00' LIMIT 1   [ RunTime:0.0301s ]
+
+[ 2020-06-07T13:59:01+08:00 ] ::1 /home/Pda/codeSave?left_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2026%2061&right_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2032%2029
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003692s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003900s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0305s ]
+SQL: SELECT * FROM `bd_tray` WHERE `code_check` = '00 00 00 01 23 00' LIMIT 1   [ RunTime:0.0299s ]
+SQL: SELECT * FROM `bd_tray` WHERE `left_code` = '00 00 00 01 23 00 22 33 00 00 26 61' OR `right_code` = '00 00 00 01 23 00 22 33 00 00 32 29' LIMIT 1   [ RunTime:0.0296s ]
+SQL: INSERT INTO `bd_tray` (`left_code`,`right_code`,`depot_id`,`create_time`,`code_check`) VALUES ('00 00 00 01 23 00 22 33 00 00 26 61','00 00 00 01 23 00 22 33 00 00 32 29','0','1591509541','00 00 00 01 23 00') [ RunTime:0.0346s ]
+
+[ 2020-06-07T13:59:08+08:00 ] ::1 /home/Pda/getTrayByCode?left_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2026%2061&right_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2032%2029
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001343s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0339s ]
+SQL: SELECT * FROM `bd_tray` WHERE `code_check` = '00 00 00 01 23 00' LIMIT 1   [ RunTime:0.0307s ]
+
+[ 2020-06-07T13:59:21+08:00 ] ::1 /home/Pda/getTrayByCode?left_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2026%2061&right_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2032%2029
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002323s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0301s ]
+SQL: SELECT * FROM `bd_tray` WHERE `code_check` = '00 00 00 01 23 00' LIMIT 1   [ RunTime:0.0288s ]
+
+[ 2020-06-07T13:59:23+08:00 ] ::1 /home/Pda/getTrayByCode?left_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2026%2061&right_code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2032%2029
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0286s ]
+SQL: SELECT * FROM `bd_tray` WHERE `code_check` = '00 00 00 01 23 00' LIMIT 1   [ RunTime:0.0279s ]
+
+[ 2020-06-07T15:18:03+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001004s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007621s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0296s ]
+SQL: INSERT INTO `bd_tray` (`left_code`,`right_code`,`depot_id`,`create_time`,`code_check`,`mac_address`) VALUES ('','','0','1591514283','','aaaodjwoiqjdqw') [ RunTime:0.0332s ]
+
+[ 2020-06-07T15:34:04+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010986s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001179s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001228s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0295s ]
+
+[ 2020-06-07T15:34:23+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000877s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013003s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0293s ]
+
+[ 2020-06-07T15:34:25+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001735s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0303s ]
+
+[ 2020-06-07T15:34:36+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018689s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0285s ]
+
+[ 2020-06-07T15:37:59+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001100s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0285s ]
+
+[ 2020-06-07T15:38:22+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002496s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0303s ]
+
+[ 2020-06-07T15:39:00+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001627s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0316s ]
+
+[ 2020-06-07T15:39:06+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001970s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002341s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0296s ]
+
+[ 2020-06-07T15:39:07+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000776s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0292s ]
+
+[ 2020-06-07T15:39:08+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0286s ]
+
+[ 2020-06-07T15:39:29+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000879s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0305s ]
+
+[ 2020-06-07T15:39:29+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001855s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0297s ]
+
+[ 2020-06-07T15:39:30+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0304s ]
+
+[ 2020-06-07T15:42:27+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005101s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0302s ]
+SQL: SELECT * FROM `bd_tray` WHERE `code_check` = '34 28 11 57 03 56' LIMIT 1   [ RunTime:0.0314s ]
+SQL: INSERT INTO `bd_tray` (`left_code`,`right_code`,`depot_id`,`create_time`,`code_check`,`mac_address`) VALUES ('','','0','1591515747','34 28 11 57 03 56','aaaodjwoiqjdqw') [ RunTime:0.0356s ]
+
+[ 2020-06-07T15:48:57+08:00 ] ::1 /home/Pda/codeAdaptation?tid=49&code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2026%2061
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000937s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.029396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.030243s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0340s ]
+SQL: SELECT * FROM `bd_tray` WHERE `id` = 49 LIMIT 1   [ RunTime:0.0301s ]
+
+[ 2020-06-07T15:49:18+08:00 ] ::1 /home/Pda/codeAdaptation?tid=49&code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2026%2061
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006992s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0414s ]
+SQL: SELECT * FROM `bd_tray` WHERE `id` = 49 LIMIT 1   [ RunTime:0.0382s ]
+
+[ 2020-06-07T18:48:03+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001606s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0296s ]
+SQL: SELECT * FROM `bd_tray` ORDER BY `code_check` DESC LIMIT 1   [ RunTime:0.0298s ]
+ERR: Unsupported operand types
+
+[ 2020-06-07T18:48:32+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000835s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0306s ]
+SQL: SELECT * FROM `bd_tray` ORDER BY `code_check` DESC LIMIT 1   [ RunTime:0.0288s ]
+
+[ 2020-06-07T18:48:37+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0288s ]
+SQL: SELECT * FROM `bd_tray` ORDER BY `code_check` DESC LIMIT 1   [ RunTime:0.0281s ]
+
+[ 2020-06-07T18:48:37+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0287s ]
+SQL: SELECT * FROM `bd_tray` ORDER BY `code_check` DESC LIMIT 1   [ RunTime:0.0282s ]
+
+[ 2020-06-07T18:49:16+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004775s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003682s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0305s ]
+SQL: SELECT * FROM `bd_tray` ORDER BY `code_check` DESC LIMIT 1   [ RunTime:0.0287s ]
+SQL: INSERT INTO `bd_tray` (`left_code`,`right_code`,`depot_id`,`create_time`,`code_check`,`mac_address`) VALUES ('','','0','1591526956','10000','aaaodjwoiqjdqw') [ RunTime:0.0324s ]
+
+[ 2020-06-07T18:49:36+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0296s ]
+SQL: SELECT * FROM `bd_tray` ORDER BY `code_check` DESC LIMIT 1   [ RunTime:0.0290s ]
+SQL: INSERT INTO `bd_tray` (`left_code`,`right_code`,`depot_id`,`create_time`,`code_check`,`mac_address`) VALUES ('','','0','1591526976','10001','aaaodjwoiqjdqw') [ RunTime:0.0317s ]
+
+[ 2020-06-07T18:52:29+08:00 ] ::1 /home/Pda/codeAdaptation?tid=53&code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2026%2061
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000933s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001338s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0307s ]
+SQL: SELECT * FROM `bd_tray` WHERE `id` = 53 LIMIT 1   [ RunTime:0.0297s ]
+
+[ 2020-06-07T18:53:31+08:00 ] ::1 /home/Pda/codeAdaptation?tid=53&code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2026%2061
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0292s ]
+SQL: SELECT * FROM `bd_tray` WHERE `id` = 53 LIMIT 1   [ RunTime:0.0287s ]
+
+[ 2020-06-07T21:06:44+08:00 ] ::1 /home/Pda/codeAdaptation?tid=53&code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2026%2061
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001342s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0307s ]
+SQL: SELECT * FROM `bd_tray` WHERE `id` = 53 LIMIT 1   [ RunTime:0.0297s ]
+
+[ 2020-06-07T21:07:44+08:00 ] ::1 /home/Pda/getTrayIdByMacId?mac=aaaodjwoiqjdqw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0290s ]
+SQL: SELECT * FROM `bd_tray` ORDER BY `code_check` DESC LIMIT 1   [ RunTime:0.0289s ]
+SQL: INSERT INTO `bd_tray` (`left_code`,`right_code`,`depot_id`,`create_time`,`code_check`,`mac_address`) VALUES ('','','0','1591535264','10000','aaaodjwoiqjdqw') [ RunTime:0.0313s ]
+
+[ 2020-06-07T21:10:49+08:00 ] ::1 /home/Pda/codeAdaptation?tid=54&code=00%2000%2000%2001%2023%2000%2022%2033%2000%2000%2026%2061
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000956s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002779s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0332s ]
+SQL: SELECT * FROM `bd_tray` WHERE `id` = 54 LIMIT 1   [ RunTime:0.0313s ]
+
+[ 2020-06-07T21:22:11+08:00 ] ::1 /home/Pda/getTrayByCode?code_write=1000
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000995s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0313s ]
+NOTIC: [8] Undefined index: code /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 37 行.
+NOTIC: [8] Undefined index: code /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 41 行.
+SQL: SELECT * FROM `bd_tray` WHERE `code_check` = 1000 LIMIT 1   [ RunTime:0.0337s ]
+
+[ 2020-06-07T21:22:14+08:00 ] ::1 /home/Pda/getTrayByCode?code_write=10000
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0324s ]
+NOTIC: [8] Undefined index: code /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 37 行.
+NOTIC: [8] Undefined index: code /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 41 行.
+SQL: SELECT * FROM `bd_tray` WHERE `code_check` = 10000 LIMIT 1   [ RunTime:0.0316s ]
+SQL: SHOW COLUMNS FROM `bd_tray_inventory` [ RunTime:0.0411s ]
+SQL: SHOW COLUMNS FROM `bd_depot` [ RunTime:0.0306s ]
+SQL: SELECT * FROM `bd_tray` WHERE `id` = 54 LIMIT 1   [ RunTime:0.0344s ]
+SQL: SELECT * FROM `bd_depot` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0297s ]
+SQL: SELECT * FROM `bd_depot` WHERE `id` = null LIMIT 1   [ RunTime:0.0569s ]
+SQL: SELECT * FROM `bd_depot` WHERE `id` = null LIMIT 1   [ RunTime:0.0316s ]
+SQL: SELECT * FROM `bd_tray_inventory` INNER JOIN bd_inventory ON bd_inventory.sid = bd_tray_inventory.sid  WHERE `tid` = '54'  [ RunTime:0.0318s ]
+
+[ 2020-06-07T22:48:54+08:00 ] ::1 /home/Pda/getTrayByCode?code_write=10000
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001386s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0292s ]
+NOTIC: [8] Undefined index: code /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 37 行.
+NOTIC: [8] Undefined index: code /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 41 行.
+SQL: SELECT * FROM `bd_tray` WHERE `code_check` = 10000 LIMIT 1   [ RunTime:0.0287s ]
+SQL: SHOW COLUMNS FROM `bd_tray_inventory` [ RunTime:0.0389s ]
+SQL: SHOW COLUMNS FROM `bd_depot` [ RunTime:0.0371s ]
+SQL: SELECT * FROM `bd_tray` WHERE `id` = 54 LIMIT 1   [ RunTime:0.0514s ]
+SQL: SELECT * FROM `bd_depot` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0289s ]
+SQL: SELECT * FROM `bd_depot` WHERE `id` = null LIMIT 1   [ RunTime:0.0301s ]
+SQL: SELECT * FROM `bd_depot` WHERE `id` = null LIMIT 1   [ RunTime:0.0287s ]
+SQL: SELECT * FROM `bd_tray_inventory` INNER JOIN bd_inventory ON bd_inventory.sid = bd_tray_inventory.sid  WHERE `tid` = '54'  [ RunTime:0.0324s ]
+
+[ 2020-06-07T22:48:55+08:00 ] ::1 /home/Pda/getTrayByCode?code_write=10000
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0292s ]
+NOTIC: [8] Undefined index: code /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 37 行.
+NOTIC: [8] Undefined index: code /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 41 行.
+SQL: SELECT * FROM `bd_tray` WHERE `code_check` = 10000 LIMIT 1   [ RunTime:0.0320s ]
+SQL: SHOW COLUMNS FROM `bd_tray_inventory` [ RunTime:0.0291s ]
+SQL: SHOW COLUMNS FROM `bd_depot` [ RunTime:0.0295s ]
+SQL: SELECT * FROM `bd_tray` WHERE `id` = 54 LIMIT 1   [ RunTime:0.0338s ]
+SQL: SELECT * FROM `bd_depot` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0326s ]
+SQL: SELECT * FROM `bd_depot` WHERE `id` = null LIMIT 1   [ RunTime:0.0367s ]
+SQL: SELECT * FROM `bd_depot` WHERE `id` = null LIMIT 1   [ RunTime:0.0422s ]
+SQL: SELECT * FROM `bd_tray_inventory` INNER JOIN bd_inventory ON bd_inventory.sid = bd_tray_inventory.sid  WHERE `tid` = '54'  [ RunTime:0.0418s ]
+
+[ 2020-06-07T22:48:56+08:00 ] ::1 /home/Pda/getTrayByCode?code_write=10000
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001447s ]
+SQL: SHOW COLUMNS FROM `bd_tray` [ RunTime:0.0361s ]
+NOTIC: [8] Undefined index: code /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 37 行.
+NOTIC: [8] Undefined index: code /Applications/MAMP/htdocs/pda/Application/Home/Controller/PdaController.class.php 第 41 行.
+SQL: SELECT * FROM `bd_tray` WHERE `code_check` = 10000 LIMIT 1   [ RunTime:0.0362s ]
+SQL: SHOW COLUMNS FROM `bd_tray_inventory` [ RunTime:0.0297s ]
+SQL: SHOW COLUMNS FROM `bd_depot` [ RunTime:0.0344s ]
+SQL: SELECT * FROM `bd_tray` WHERE `id` = 54 LIMIT 1   [ RunTime:0.0425s ]
+SQL: SELECT * FROM `bd_depot` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0298s ]
+SQL: SELECT * FROM `bd_depot` WHERE `id` = null LIMIT 1   [ RunTime:0.0285s ]
+SQL: SELECT * FROM `bd_depot` WHERE `id` = null LIMIT 1   [ RunTime:0.0300s ]
+SQL: SELECT * FROM `bd_tray_inventory` INNER JOIN bd_inventory ON bd_inventory.sid = bd_tray_inventory.sid  WHERE `tid` = '54'  [ RunTime:0.0365s ]
+
