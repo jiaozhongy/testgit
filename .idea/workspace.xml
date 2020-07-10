@@ -206,7 +206,7 @@
       <workItem from="1593416534164" duration="2991000" />
       <workItem from="1593756058762" duration="1706000" />
       <workItem from="1593782481474" duration="796000" />
-      <workItem from="1594284715704" duration="2672000" />
+      <workItem from="1594284715704" duration="3276000" />
     </task>
     <task id="LOCAL-00001" summary="qqq">
       <created>1594290446383</created>
@@ -215,15 +215,35 @@
       <option name="project" value="LOCAL" />
       <updated>1594290446384</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="qqq">
+      <created>1594364516375</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594364516378</updated>
+    </task>
+    <task id="LOCAL-00003" summary="qqq">
+      <created>1594364712165</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594364712166</updated>
+    </task>
+    <task id="LOCAL-00004" summary="qqq">
+      <created>1594365023860</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594365023860</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73685000" />
+    <option name="totallyTimeSpent" value="74289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13369964" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
